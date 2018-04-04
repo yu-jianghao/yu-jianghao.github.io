@@ -30,16 +30,8 @@ Work experience
 
 * 2017.12-: Assistant Professor
   * HEC Montreal
-  * Directer: Yoshua Bengio
+  * Director: Yoshua Bengio
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -48,9 +40,12 @@ Publications
 
 Talks
 ======
+  See [Invited talks](/talks/)
 
 Teaching
 ======
+  See [Teaching](/teaching)
   
 Service and leadership
 ======
+  See [Professional Services](/services/)
