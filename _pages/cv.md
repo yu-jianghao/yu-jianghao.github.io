@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. of Mathematics, Beijing Normal University, 2005-2009
+* Visiting Ph.D. student, University of Michigan, 2011.10-2013.8
+* Ph.D. of Computer Science, Peking University, 2009-2014
+* Research Fellow, University of Michigan, 2016.10-1017.6
+* Visiting Scholar, Carnegie Mellon University, 2017.4-2017.6
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2010.9-2011.8: Research Intern
+  * Microsoft Research Asia
+  * Duties included: User behavior prediction
+  * Supervisor: Jun Yan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014.7-2016.9: Associate Researcher
+  * Microsoft Research Asia
+  * Supervisor: Wei-Ying Ma
+
+* 2017.12-: Assistant Professor
+  * HEC Montreal
+  * Directer: Yoshua Bengio
   
 Skills
 ======
@@ -38,22 +43,14 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  See [publication list](/publications/)
+
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
