@@ -7,7 +7,7 @@ author_profile: true
 
 * Invited talk "Progress and Future Directions of Network Representations" at Machine Intelligence Frontier Seminar 2017, CCF special topic on knowledge graph, 2017.10
 * Invited talk "Towards combining information retrieval and reasoning for natural language understanding", at Tsinghua University, 2017.9.
-* Tutorial “Learning representations of large-scale networks” at KDD 2017, Halifax, Canada, 2017.8
+* Tutorial “Learning representations of large-scale networks” at KDD 2017, Halifax, Canada, 2017.8 [slides](/files/KDD17Tutorial_final.pdf)
 * Talk "Introduction to Deep Learning \& How to Do Research in Machine Learning", at Peking University, 2017.6
 * Talk "Visualizing large-scale and high-dimensional data", at PKU-UCLA Symposium. 2017. 7
 * Talk "Learning representations of large-scale networks", at Peking University, Tsinghua University, JingDong, iFlytek,  TianYanCha, Toutiao AI Lab, 2017.6-7.
