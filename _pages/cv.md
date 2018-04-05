@@ -11,25 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. of Mathematics, Beijing Normal University, 2005-2009
-* Visiting Ph.D. student, University of Michigan, 2011.10-2013.8
-* Ph.D. of Computer Science, Peking University, 2009-2014
-* Research Fellow, University of Michigan, 2016.10-1017.6
-* Visiting Scholar, Carnegie Mellon University, 2017.4-2017.6
+* B.S. of Mathematics, [Beijing Normal University](http://english.bnu.edu.cn/), 2005-2009
+* Visiting Ph.D. student, [University of Michigan](https://www.umich.edu/), 2011.10-2013.8
+* Ph.D. of Computer Science, [Peking University](http://english.pku.edu.cn/), 2009-2014
+* Research Fellow, [University of Michigan](https://www.umich.edu/), 2016.10-1017.6
+* Visiting Scholar, [Carnegie Mellon University](https://www.cmu.edu/), 2017.4-2017.6
 
 Work experience
 ======
 * 2010.9-2011.8: Research Intern
-  * Microsoft Research Asia
+  * [Microsoft Research Asia](https://www.msra.cn/)
   * Duties included: User behavior prediction
   * Supervisor: Jun Yan
 
 * 2014.7-2016.9: Associate Researcher
-  * Microsoft Research Asia
+  * [Microsoft Research Asia](https://www.msra.cn/)
   * Supervisor: Wei-Ying Ma
 
 * 2017.12-: Assistant Professor
-  * HEC Montreal
+  * [HEC Montreal](http://www.hec.ca/en/)
   * Director: Yoshua Bengio
   
 
