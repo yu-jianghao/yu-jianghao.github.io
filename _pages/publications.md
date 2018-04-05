@@ -1,9 +1,20 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
 author_profile: true
+permalink: /publications/
 ---
+
+
+I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) & [MILA](https://mila.umontreal.ca/en/). Prior to that, I joined [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher in 2014. I received my Ph.D. degree from [EECS](http://eecs.pku.edu.cn/EN/), [Peking University](http://english.pku.edu.cn/) in July 2014.
+
+Research Interests
+======
+* Deep learning, reinforcement learning
+* Graph representation learning and reasoning
+* Recommender systems
+* Natural language understanding
+
 [Google Scholar](https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en)
 
 * Quanyu Dai, Qiang Li, Jian Tang, and Dan Wang. [Adversarial Network Embedding](https://arxiv.org/abs/1711.07838), in Proc. of 2018 AAAI Conf. on Artificial Intelligence (AAAI'18), New Orleans, LA, Feb. 2018
@@ -18,7 +29,7 @@ author_profile: true
 * Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan and Qiaozhu Mei. [LINE: Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578). WWW'15. [source code](https://github.com/tangjianpku/LINE) <span style='color:red'>(Most cited paper in WWW'15)</span>
 * Jian Tang, Ming Zhang, and Qiaozhu Mei. ["Look Ma, No Hands!" A parameter-free topic model](https://arxiv.org/abs/1409.2993).  2014
 * Yong Luo, Jian Tang, Jun Yan, Chao Xu, and Zheng Chen. [Pre-trained multi-view word embedding using two-side neural network](https://dl.acm.org/citation.cfm?id=2892828). AAAI'14.
-* Jian Tang, Zhaoshi Meng, XuanLong Nguyen, Qiaozhu Mei and Ming Zhang. [Understanding the limiting factors of topic modeling via posterior contraction analysis](http://proceedings.mlr.press/v32/tang14.pdf). In proceedings of the 31st International Conference on Machine Learning (ICML), Beijing, June 2014. (Best paper award, 1/1500)
+* Jian Tang, Zhaoshi Meng, XuanLong Nguyen, Qiaozhu Mei and Ming Zhang. [Understanding the limiting factors of topic modeling via posterior contraction analysis](http://proceedings.mlr.press/v32/tang14.pdf). In proceedings of the 31st International Conference on Machine Learning (ICML), Beijing, June 2014. <span style='color:red'>(Best paper award, 1/1500)</span>
 * Jian Tang, Ming Zhang, and Qiaozhu Mei. [One theme in all views: Modeling consensus topics in multiple contexts](https://dl.acm.org/citation.cfm?id=2487682). In Proceedings of the 2013 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD’13). (17% acceptance) 
 * Jian Tang, Jun Yan, Lei Ji, Ming Zhang, Shaodan Guo, Ning Liu, Xianfang Wang, and Zheng Chen. [Collaborative users' brand preference across multiple domains from implicit feedbacks](https://pdfs.semanticscholar.org/adf6/280e1c8bcbaea6279a634eb13e1026dad018.pdf). AAAI 2011. PP447-482.
 * Jian Tang, Ning Liu, Jun Yan, Yelong Shen, Shaodan Guo, Bin Gao, Shuicheng Yan, and Ming Zhang. [Learning to rank audience for behavioral targeting in display ads](http://delivery.acm.org/10.1145/2070000/2063666/p605-tang.pdf?ip=162.105.88.94&id=2063666&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EAC95BC9DA5A3FA7E%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1522913818_14ceb40ffcfbe3af0b4918a1cf94ca33). CIKM 2011: 605-610
