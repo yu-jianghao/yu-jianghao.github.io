@@ -5,5 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* class1
+* Peking University
+  * Summer 2017, Deep Learning
+  * Summer 2018, Deep Learning
 * class2
