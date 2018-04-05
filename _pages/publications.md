@@ -1,19 +1,8 @@
 ---
-layout: archive
 title: "Publications"
 author_profile: true
 permalink: /publications/
 ---
-
-
-I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) & [MILA](https://mila.umontreal.ca/en/). Prior to that, I joined [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher in 2014. I received my Ph.D. degree from [EECS](http://eecs.pku.edu.cn/EN/), [Peking University](http://english.pku.edu.cn/) in July 2014.
-
-Research Interests
-======
-* Deep learning, reinforcement learning
-* Graph representation learning and reasoning
-* Recommender systems
-* Natural language understanding
 
 [Google Scholar](https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en)
 
