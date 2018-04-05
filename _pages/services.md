@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Professional Services"
 permalink: /services/
 author_profile: true
