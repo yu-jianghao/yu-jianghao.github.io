@@ -4,7 +4,7 @@ author_profile: true
 permalink: /publications/
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en)    [DBLP](https://dblp.uni-trier.de/pers/hd/t/Tang_0005:Jian)
 
 * Quanyu Dai, Qiang Li, Jian Tang, and Dan Wang. [Adversarial Network Embedding](https://arxiv.org/abs/1711.07838), in Proc. of 2018 AAAI Conf. on Artificial Intelligence (AAAI'18), New Orleans, LA, Feb. 2018
 * Luchen Liu, Jianhao Shen, Ming Zhang, Zichang Wang, and Jian Tang. [Learning the Joint Representation of Heterogeneous Temporal Events for Clinical Event Prediction](https://arxiv.org/pdf/1803.04837.pdf), in Proc. of 2018 AAAI Conf. on Artificial Intelligence (AAAI'18), New Orleans, LA, Feb. 2018
