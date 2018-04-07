@@ -18,33 +18,9 @@ Education
 
 Work experience
 ======
-* 2010.9-2011.8: Research Intern
-  * [Microsoft Research Asia](https://www.msra.cn/)
-  * Duties included: User behavior prediction
-  * Supervisor: Jun Yan
 
-* 2014.7-2016.9: Associate Researcher
-  * [Microsoft Research Asia](https://www.msra.cn/)
-  * Supervisor: Wei-Ying Ma
-
-* 2017.12-: Assistant Professor
-  * [HEC Montreal](http://www.hec.ca/en/)
-  * Director: Yoshua Bengio
-  
-
-Publications
-======
-  See [publication list](/publications/)
-
-
-Talks
-======
-  See [Invited talks](/talks/)
-
-Teaching
-======
-  See [Teaching](/teaching)
-  
-Service and leadership
-======
-  See [Professional Services](/services/)
+* 2017.12-: Assistant Professor at [HEC Montreal](http://www.hec.ca/en/) & Montreal Institute for Learning Algorithms (MILA)
+* 2017.9-2017.12: Visiting researcher at Tsinghua University
+* 2016.10-2017.6: Postdoc researcher at University of Michigan and Carnegie Mellon University
+* 2014.7-2016.9: Associate Researcher at [Microsoft Research Asia](https://www.msra.cn/)
+* 2010.9-2011.8: Research Intern at [Microsoft Research Asia](https://www.msra.cn/)
