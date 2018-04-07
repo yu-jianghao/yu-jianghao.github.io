@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) & [MILA](https://mila.umontreal.ca/en/). Prior to that, I joined [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher in 2014. I received my Ph.D. degree from [EECS](http://eecs.pku.edu.cn/EN/), [Peking University](http://english.pku.edu.cn/) in July 2014.
+I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) & [Montreal Institute for Learning Algorithms (MILA)](https://mila.umontreal.ca/en/). Prior to that, I was a Postdoc at University of Michigan and Carnegie Mellon University. I also worked at [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher between 2014-2016. I received my Ph.D. degree from [EECS](http://eecs.pku.edu.cn/EN/), [Peking University](http://english.pku.edu.cn/) in July 2014.
 
 Research Interests
 ======
