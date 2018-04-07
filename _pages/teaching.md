@@ -4,7 +4,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* Peking University
-  * Summer 2017, Deep Learning
-  * Summer 2018, Deep Learning
-* class2
+* Deep Learning, Peking University, Summer 2017
+* Statistics, HEC Montreal, Winter 2017
+* Deep Learning, Peking University, Summer 2017
