@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) & [Montreal Institute for Learning Algorithms (MILA)](https://mila.umontreal.ca/en/). Prior to that, I was a Postdoc at University of Michigan and Carnegie Mellon University. I also worked at [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher between 2014-2016. I received my Ph.D. degree from [EECS](http://eecs.pku.edu.cn/EN/), [Peking University](http://english.pku.edu.cn/) in July 2014.
+I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) and [Montreal Institute for Learning Algorithms (MILA)](https://mila.umontreal.ca/en/). Prior to that, I was a Postdoc at University of Michigan and Carnegie Mellon University. I also worked at [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher between 2014-2016. I received my Ph.D. degree from [EECS](http://eecs.pku.edu.cn/EN/), [Peking University](http://english.pku.edu.cn/) in July 2014.
+
+<span style="color:red">What's New</span>
+======
+* If you want to work with me as a postdoc in MILA, please consider applying the [postdoctoral scholarship of IVADO](https://ivado.ca/en/postdoctoral-scholarships/) (deadline, 1st, May, 2018)
+* I'm looking for Ph.Ds, masters, visitors, and interns to work with me in the fields of deep learning and reinforcement learning with various applications. If you're interested, please send me an email or apply through the [MILA recruitment page](https://mila.umontreal.ca/en/cours/recruiting/)
 
 Research Interests
 ======
@@ -17,11 +22,6 @@ Research Interests
 * Recommender systems
 * Natural language understanding
 * Computational Chemistry
-
-<span style="color:red">What's New</span>
-======
-* If you want to work with me as a postdoc in MILA, please consider applying the [postdoctoral scholarship of IVADO](https://ivado.ca/en/postdoctoral-scholarships/) (deadline, 1st, May, 2018)
-* I'm looking for Ph.Ds, masters, visitors, and interns to work with me in the fields of deep learning and reinforcement learning with various applications. If you're interested, please send me an email or apply through the [MILA recruitment page](https://mila.umontreal.ca/en/cours/recruiting/)
 
 Selected Publications
 ======
