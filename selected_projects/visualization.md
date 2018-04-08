@@ -1,6 +1,6 @@
 ---
 title: "Big Data Visualization"
-permalink: /visualization/
+permalink: /selected_projects/visualization/
 author_profile: true
 ---
 
