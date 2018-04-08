@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Dr. Jian Tang"
   avatar           : "jian.jpg"
-  bio              : "Assistant Professor, 
-                        HEC Montreal,
-                        Montreal Institute for Learning Alogorithms (MILA)"
+  bio              : |
+    Assistant Professor, 
+    HEC Montreal,
+    Montreal Institute for Learning Alogorithms (MILA)
   location         : "Montreal, Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en"
