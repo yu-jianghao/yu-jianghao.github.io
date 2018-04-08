@@ -83,8 +83,8 @@ author:
   name             : "Dr. Jian Tang"
   avatar           : "jian.jpg"
   bio              : |
-    Assistant Professor,
-    HEC Montreal,
+    Assistant Professor, <br>
+    HEC Montreal, <br>
     Montreal Institute for Learning Alogorithms (MILA)
   location         : "Montreal, Canada"
   employer         :
