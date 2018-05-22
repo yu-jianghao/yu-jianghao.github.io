@@ -21,7 +21,7 @@ Research Interests
 * Graph representation learning and reasoning
 * Recommender systems
 * Natural language understanding
-* Computational Chemistry
+* Computational chemistry
 
 Selected Publications
 ======
