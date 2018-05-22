@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 
+* Talk "Learning Representations of Graphs" at Google Brain, Montreal, 2018.05.07.
 * Invited talk "Progress and Future Directions of Network Representations" at Machine Intelligence Frontier Seminar 2017, CCF special topic on knowledge graph, 2017.10
 * Invited talk "Towards combining information retrieval and reasoning for natural language understanding", at Tsinghua University, 2017.9.
 * Tutorial “Learning representations of large-scale networks” at KDD 2017, Halifax, Canada, 2017.8 [slides](/files/KDD17Tutorial_final.pdf)
