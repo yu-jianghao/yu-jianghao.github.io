@@ -13,7 +13,7 @@ Education
 * B.S. of Mathematics, [Beijing Normal University](http://english.bnu.edu.cn/), 2005-2009
 * Visiting Ph.D. student, [University of Michigan](https://www.umich.edu/), 2011.10-2013.8
 * Ph.D. of Computer Science, [Peking University](http://english.pku.edu.cn/), 2009-2014
-* Research Fellow, [University of Michigan](https://www.umich.edu/), 2016.10-1017.6
+* Research Fellow, [University of Michigan](https://www.umich.edu/), 2016.10-2017.6
 * Visiting Scholar, [Carnegie Mellon University](https://www.cmu.edu/), 2017.4-2017.6
 
 Work experience
