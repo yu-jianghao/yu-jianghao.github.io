@@ -12,16 +12,16 @@ I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) and 
 
 <span style="color:red">What's New</span>
 ======
-* If you want to work with me as a postdoc in MILA, please consider applying the [postdoctoral scholarship of IVADO](https://ivado.ca/en/postdoctoral-scholarships/) (deadline, 1st, May, 2018)
+* I am looking for Postdocs. Students who are interested in Postdoc position can apply the [postdoctoral scholarship of IVADO](https://ivado.ca/en/postdoctoral-scholarships/)
 * I'm looking for Ph.Ds, masters, visitors, and interns to work with me in the fields of deep learning and reinforcement learning with various applications. If you're interested, please send me an email or apply through the [MILA recruitment page](https://mila.umontreal.ca/en/cours/recruiting/)
 
 Research Interests
 ======
 * Deep learning, reinforcement learning
 * Graph representation learning and reasoning
-* Recommender systems
 * Natural language understanding
 * Drug discovery
+* Recommender systems
 
 Recent Papers
 ======
