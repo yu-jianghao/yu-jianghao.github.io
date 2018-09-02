@@ -4,4 +4,4 @@ permalink: /students/
 author_profile: true
 ---
 
-Ph.D.
+* [Ph.D.](../selected_projects/visualization)
