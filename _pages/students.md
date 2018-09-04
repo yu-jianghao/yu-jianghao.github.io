@@ -4,18 +4,16 @@ permalink: /students/
 author_profile: true
 ---
 
-
 Ph.D.
 ---
 * Meng Qu
 * Zhaocheng Zhu
 
----
+
 M.Sc.
 ---
 * Shagun Sodhani
 
----
 Interns & Visiting Students
 ---
 * Cheng Yang (Ph.D., Tsinghua University)
