@@ -18,7 +18,7 @@ I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) and 
 Research Interests
 ======
 * Deep learning, reinforcement learning, adversarial learning
-* Graph representation learning and reasoning
+* Graph representation learning, Graph Neural Networks
 * Natural language understanding
 * Drug discovery
 * Recommender systems
