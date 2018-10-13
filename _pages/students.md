@@ -20,6 +20,7 @@ Interns & Visiting Students
 * Weiping Song (Ph.D., Peking University), 2018.10- 
 * Yanru Qu (M.Sc., Shanghai JiaoTong University), 2018.7-
 * Fan-Yun Sun (Undergraduate, National Taiwan University), 2018.12-
+* Yash Agrawal (Undergradaute, IIT Kharagpur), 2018.10-
 
 Alumni
 ---
