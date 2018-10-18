@@ -12,7 +12,7 @@ I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) and 
 
 <span style="color:red">What's New</span>
 ======
-* I am looking for Postdocs!! Students who are interested in a postdoc position can apply the [postdoctoral scholarship of IVADO](https://ivado.ca/en/postdoctoral-scholarships/). The deadline is 18, November, 2018. The Fellow scholarship will include $90000 per year for up to three years. In the first year, an additional $10000 may be awarded upon request to cover relocation expenses, along with $15000 per year to fund research activities. Very attractive!!
+* I am looking for Postdocs!! Students who are interested in a postdoc position can apply the [postdoctoral scholarship of IVADO](https://ivado.ca/en/postdoctoral-scholarships/). The deadline is 18, November, 2018. The Fellow scholarship will include $90000 per year for up to three years. In the first year, an additional $10000 may be awarded upon request to cover relocation expenses, along with $15000 per year to fund research activities. Very attractive!!！
 * Tutorial "Graph representation learning" by William L. Hamilton and me has been accepted by AAAI'19. See you at Hawaii!!
 * I'm looking for Ph.Ds, masters, visitors, and interns to work with me in the fields of deep learning and reinforcement learning with various applications. If you're interested, please send me an email or apply through the [MILA recruitment page](https://mila.umontreal.ca/en/cours/recruiting/)
 
