@@ -26,6 +26,8 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> Mingjie Sun, Jian Tang, Huichen Li, Bo Li, Chaowei Xiao, Yao Chen, Dawn Song. "Data Poisoning Attack against Unsupervised Node Embedding Methods." arXiv:1810.12881
+* <span style="color:red">New!!</span> Weiping Song, Chence Shi, Zhiping Xiao, Zhijian Duan, Yewen Xu, Ming Zhang, Jian Tang. "AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks." arXiv:1810.11921 
 * <span style="color:red">New!!</span> William L. Hamilton and Jian Tang. "Graph Representation Learning". Tutorial at the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI'19), Hawaii, USA, 2019.
 * <span style="color:red">New!!</span> Weiping Song, Zhiping Xiao, Yifan Wang, Laurent Charlin, Ming Zhang and Jian Tang. "Session-based Social Recommendation via Dynamic Graph Attention Networks." To appear at the 12th ACM International Conference on Web Search and Data Mining (WSDM'19), Melbourne, Australia, February 11-15, 2019.
 * Jiezhong Qiu, Jian Tang, Hao Ma, Yuxiao Dong, Kuansan Wang, and Jie Tang. [DeepInf: Social Influence Prediction with Deep Learning.](https://www.haoma.io/pdf/deepinf.pdf). In Proceedings of the Twenty-Fourth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'18)
