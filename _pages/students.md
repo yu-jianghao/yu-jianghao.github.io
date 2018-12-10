@@ -18,7 +18,6 @@ Interns & Visiting Students
 ---
 * Carlos Eduardo (Ph.D., IMT Atlantique), 2018.10-
 * Weiping Song (Ph.D., Peking University), 2018.10- 
-* Yanru Qu (M.Sc., Shanghai JiaoTong University), 2018.7-
 * Fan-Yun Sun (Undergraduate, National Taiwan University), 2018.12-
 * Yash Agrawal (Undergradaute, IIT Kharagpur), 2018.10-
 
@@ -29,3 +28,5 @@ Alumni
 * Zhiqing Sun (Undergraduate, Peking University), summer, 2018
 * Yizhou Zhang (Undergraduate, Peking University), summer, 2018
 * Zilong Guo (Undergraduate, Shanghai JiaoTong University), summer, 2018
+*  Yanru Qu (M.Sc., Shanghai JiaoTong University), 2018.7- 2018.11
+
