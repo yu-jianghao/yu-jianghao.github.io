@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 * Talk "Graph representation learning and applications" at Université du Québec à Montréal. 2018.11
-* Talk "Graph Representation Learning for Natural Language Understanding and Reasoning", Natural Language Processing Workshop for MILA Sponsors and Partners.
+* Talk "Graph Representation Learning for Natural Language Understanding and Reasoning", Natural Language Processing Workshop for MILA Sponsors and Partners. 2018. 9
 * Talk "Graph Representation Learning and Applications", Tsinghua University, 2018.7.
 * Talk "Learning Representations of Graphs" at Google Brain, Montreal, 2018.05.07.
 * Invited talk "Progress and Future Directions of Network Representations" at Machine Intelligence Frontier Seminar 2017, CCF special topic on knowledge graph, 2017.10
