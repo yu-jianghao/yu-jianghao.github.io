@@ -20,7 +20,7 @@ Research Interests
 ======
 * Deep learning, reinforcement learning, adversarial learning
 * Graph representation learning, Graph Neural Networks
-* Natural language understanding
+* Natural language understanding and reasoning
 * Drug discovery
 * Recommender systems
 
