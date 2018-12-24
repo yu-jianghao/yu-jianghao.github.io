@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) and [Montreal Institute for Learning Algorithms (MILA)](https://mila.umontreal.ca/en/). Prior to that, I was a Postdoc at University of Michigan and Carnegie Mellon University. I also worked at [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher between 2014-2016. I received my Ph.D. degree from [EECS](http://eecs.pku.edu.cn/EN/), [Peking University](http://english.pku.edu.cn/) in July 2014.
+I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) and [Montreal Institute for Learning Algorithms (MILA)](https://mila.umontreal.ca/en/). Prior to that, I was a Postdoc at University of Michigan and Carnegie Mellon University. I also worked at [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher between 2014-2016. 
 
 <span style="color:red">What's New</span>
 ======
