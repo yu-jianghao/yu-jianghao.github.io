@@ -3,6 +3,8 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+* Talk "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space" at Peking Univeristy,2019.1.
+* Talk "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space" at Huawei inhouse workshop,2018.12.
 * Talk "Graph representation learning and applications" at Université du Québec à Montréal. 2018.11
 * Talk "Graph Representation Learning for Natural Language Understanding and Reasoning", Natural Language Processing Workshop for MILA Sponsors and Partners. 2018. 9
 * Talk "Graph Representation Learning and Applications", Tsinghua University, 2018.7.
