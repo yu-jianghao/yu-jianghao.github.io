@@ -14,6 +14,9 @@ I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) and 
 ======
 * I am quite honoured to be named to the first cohort of Canada CIFAR Artificial Intelligence Chairs (CCAI Chair).[CIFAR News1](https://www.cifar.ca/cifarnews/2018/12/06/trudeau-meets-with-newly-appointed-canada-cifar-ai-chairs) [CIFAR News2](https://www.cifar.ca/cifarnews/2018/12/03/29-researchers-named-to-first-cohort-of-canada-cifar-artificial-intelligence-chairs) 
 * Tutorial "Graph representation learning" by William L. Hamilton and me has been accepted by AAAI'19. See you at Hawaii!!
+ Slides ([Part 0](/files/AAAI19/aaai-grltutorial-part0-intro.pdf), [Part I](/files/AAAI19/aaai-grltutorial-part1-nodereps.pdf), [Part II](/files/AAAI19/aaai-grltutorial-part2-gnns.pdf), [Part III](/files/AAAI19/aaai-grltutorial-part3-generation.pdf))
+
+
 * I'm looking for Ph.Ds, masters,and interns to work with me in the fields of deep learning, reinforcement learning, and deep graph representation learning with various applications. If you're interested, please send me an email or apply through the [MILA recruitment page](https://mila.umontreal.ca/en/cours/recruiting/)
 
 Research Interests
