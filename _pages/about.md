@@ -12,6 +12,7 @@ I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) and 
 
 <span style="color:red">What's New</span>
 ======
+* We just released the source codes of our RotatE model. The codes are available at [link](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding).
 * I am quite honoured to be named to the first cohort of Canada CIFAR Artificial Intelligence Chairs (CCAI Chair).[CIFAR News1](https://www.cifar.ca/cifarnews/2018/12/06/trudeau-meets-with-newly-appointed-canada-cifar-ai-chairs) [CIFAR News2](https://www.cifar.ca/cifarnews/2018/12/03/29-researchers-named-to-first-cohort-of-canada-cifar-artificial-intelligence-chairs) 
 * Tutorial "Graph representation learning" by William L. Hamilton and me has been accepted by AAAI'19. See you at Hawaii!!
  Slides ([Part 0](/files/AAAI19/aaai-grltutorial-part0-intro.pdf), [Part I](/files/AAAI19/aaai-grltutorial-part1-nodereps.pdf), [Part II](/files/AAAI19/aaai-grltutorial-part2-gnns.pdf), [Part III](/files/AAAI19/aaai-grltutorial-part3-generation.pdf))
@@ -29,7 +30,7 @@ Research Interests
 
 Recent Papers
 ======
-* <span style="color:red">New!!</span> Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang. "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space." To appear at the Seventh International Conference on Learning Representations (ICLR'19), New Orleans, USA.
+* <span style="color:red">New!!</span> Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang. "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space." To appear at the Seventh International Conference on Learning Representations (ICLR'19), New Orleans, USA. [codes](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
 * <span style="color:red">New!!</span> William L. Hamilton and Jian Tang. "Graph Representation Learning". Tutorial at the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI'19), Hawaii, USA, 2019.
 *  <span style="color:red">New!!</span> Pengfei Liu, Shuaichen Chang, Xuanjing Huang, Jian Tang, Jackie Chi Kit Cheung. "Contextualized Non-local Neural Networks for Sequence Learning." To appear at the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI'19), Hawaii, USA, 2019.
 * <span style="color:red">New!!</span> Mingjie Sun, Jian Tang, Huichen Li, Bo Li, Chaowei Xiao, Yao Chen, Dawn Song. "Data Poisoning Attack against Unsupervised Node Embedding Methods." arXiv:1810.12881
