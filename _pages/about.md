@@ -30,7 +30,7 @@ Research Interests
 
 Recent Papers
 ======
-* <span style="color:red">New!!</span> Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang. "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space." To appear at the Seventh International Conference on Learning Representations (ICLR'19), New Orleans, USA. [codes](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
+* <span style="color:red">New!!</span> Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang. "[RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space](https://openreview.net/pdf?id=HkgEQnRqYQ)." To appear at the Seventh International Conference on Learning Representations (ICLR'19), New Orleans, USA. [codes](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
 * <span style="color:red">New!!</span> William L. Hamilton and Jian Tang. "Graph Representation Learning". Tutorial at the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI'19), Hawaii, USA, 2019.
 *  <span style="color:red">New!!</span> Pengfei Liu, Shuaichen Chang, Xuanjing Huang, Jian Tang, Jackie Chi Kit Cheung. "Contextualized Non-local Neural Networks for Sequence Learning." To appear at the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI'19), Hawaii, USA, 2019.
 * <span style="color:red">New!!</span> Mingjie Sun, Jian Tang, Huichen Li, Bo Li, Chaowei Xiao, Yao Chen, Dawn Song. "Data Poisoning Attack against Unsupervised Node Embedding Methods." arXiv:1810.12881
