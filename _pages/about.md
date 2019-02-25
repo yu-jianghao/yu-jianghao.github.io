@@ -30,6 +30,7 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> Zhaocheng Zhu, Shizhen Xu, Meng Qu, Jian Tang. "GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding". To appear at the Web Conference 2019 (formerly known as WWW2019), San Francisco, CA, USA, May 13-17, 2019,
 * <span style="color:red">New!!</span> Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang. "[RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space](https://openreview.net/pdf?id=HkgEQnRqYQ)." To appear at the Seventh International Conference on Learning Representations (ICLR'19), New Orleans, USA. [codes](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding) [slides]()
 * <span style="color:red">New!!</span> William L. Hamilton and Jian Tang. "Graph Representation Learning". Tutorial at the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI'19), Hawaii, USA, 2019. ([Part 0](/files/AAAI19/aaai-grltutorial-part0-intro.pdf), [Part I](/files/AAAI19/aaai-grltutorial-part1-nodereps.pdf), [Part II](/files/AAAI19/aaai-grltutorial-part2-gnns.pdf), [Part III](/files/AAAI19/aaai-grltutorial-part3-generation.pdf))
 *  <span style="color:red">New!!</span> Pengfei Liu, Shuaichen Chang, Xuanjing Huang, Jian Tang, Jackie Chi Kit Cheung. "[Contextualized Non-local Neural Networks for Sequence Learning](https://arxiv.org/pdf/1811.08600.pdf)." To appear at the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI'19), Hawaii, USA, 2019.
