@@ -8,7 +8,8 @@ Current Projects
 * Fundamental Problems on Graph Representation Learning
 * Drug Discovery
 * Natural language understanding and reasoning
-* Recommender Systems
+* [Recommender Systems](https://github.com/DeepGraphLearning/RecommenderSystems)
+* [Knowledge Graph Embedding](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
 
 Previous Projects
 ---
