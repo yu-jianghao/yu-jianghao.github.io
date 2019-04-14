@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently an assistant professor at [HEC Montreal](http://www.hec.ca/) and [Montreal Institute for Learning Algorithms (MILA)](https://mila.umontreal.ca/en/). Prior to that, I was a Postdoc at University of Michigan and Carnegie Mellon University. I also worked at [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher between 2014-2016. 
 
+I'm looking for students (Ph.D., MSc., visitors, and interns)!! Students who are interested in working with me please apply through Mila admission (https://mila.quebec/en/admission/) or send an email to me directly. 
+
 <span style="color:red">What's New</span>
 ======
 * We just released the source codes of our RotatE model. The codes are available at [link](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding).
