@@ -27,6 +27,7 @@ Research Interests
 
 Recent Papers
 ======
+*  <span style="color:red">New!!</span> Zhiqing Sun, Jian Tang, Pan Du, Zhi-Hong Deng and Jian-Yun Nie. DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases. To appear at the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval, July 21-25, 2019, Paris, France.
 * <span style="color:red">New!!</span> Zhaocheng Zhu, Shizhen Xu, Meng Qu, Jian Tang. "[GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding](https://arxiv.org/pdf/1903.00757.pdf)". To appear at the Web Conference 2019 (formerly known as WWW'2019), San Francisco, CA, USA, May 13-17, 2019,
 * <span style="color:red">New!!</span> Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang. "[RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space](https://openreview.net/pdf?id=HkgEQnRqYQ)." To appear at the Seventh International Conference on Learning Representations (ICLR'19), New Orleans, USA. [codes](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding) [slides]()
 * <span style="color:red">New!!</span> William L. Hamilton and Jian Tang. "Graph Representation Learning". Tutorial at the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI'19), Hawaii, USA, 2019. ([Part 0](/files/AAAI19/aaai-grltutorial-part0-intro.pdf), [Part I](/files/AAAI19/aaai-grltutorial-part1-nodereps.pdf), [Part II](/files/AAAI19/aaai-grltutorial-part2-gnns.pdf), [Part III](/files/AAAI19/aaai-grltutorial-part3-generation.pdf))
