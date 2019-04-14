@@ -9,7 +9,7 @@ Ph.D.
 * Meng Qu (Peking University, 2019.1-)
 * Zhaocheng Zhu (Peking University, 2018.9-)
 * Andreea Deac (University of Cambridge, will start from 2019.9)
-* Shentchao Liu (University of Wisconsin–Madison, will start from 2019.9)
+* Shengchao Liu (University of Wisconsin–Madison, will start from 2019.9)
 * Louis-Pascal Xhonneux (University of Cambridge, will start from 2019.9)
 
 
