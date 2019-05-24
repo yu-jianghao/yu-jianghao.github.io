@@ -3,7 +3,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-* Talk "GMNN: Graph Markov Neural Networks" at IPAM Workshop "Deep Geometric Learning of Big Data and Applications", UCLA, United States, 2019.5 [video](http://www.ipam.ucla.edu/abstract/?tid=16001&pcode=GLWS4)
+* Talk "GMNN: Graph Markov Neural Networks" at IPAM Workshop "Deep Geometric Learning of Big Data and Applications", UCLA, United States, 2019.5 [video](http://www.ipam.ucla.edu/abstract/?tid=16001&pcode=GLWS4), [slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/GMNN_ICML19.pptx)
 * Talk "Graph Representation Learning: Algorithms, Applications, Systems" in Computer Science Department at UCLA, United States, 2019.5
 * Talk "Knowledge graph embedding and alignment", Mila-Samsung Workshop, 2019.5
 * Talk "Graph Representation Learning: Algorithms, Applications, Systems" in the Statistics Department at McGill University, 2019.4
