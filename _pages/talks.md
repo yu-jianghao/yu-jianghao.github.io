@@ -3,6 +3,11 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+* Talk "GMNN: Graph Markov Neural Networks" at IPAM Workshop "Deep Geometric Learning of Big Data and Applications", UCLA, United States, 2019.5 [video](http://www.ipam.ucla.edu/abstract/?tid=16001&pcode=GLWS4)
+* Talk "Graph Representation Learning: Algorithms, Applications, Systems" in Computer Science Department at UCLA, United States, 2019.5
+* Talk "Knowledge graph embedding and alignment", Mila-Samsung Workshop, 2019.5
+* Talk "Graph Representation Learning: Algorithms, Applications, Systems" in the Statistics Department at McGill University, 2019.4
+* Talk "Graph Representation Learning and Applications in Healthcare and Biomedical Applications" Faculty Seminar on AI and healthcare at McGill University, 2019.4.
 * Talk "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space" at Peking Univeristy,2019.1.
 * Talk "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space" at Huawei inhouse workshop,2018.12.
 * Talk "Graph representation learning and applications" at Université du Québec à Montréal. 2018.11
