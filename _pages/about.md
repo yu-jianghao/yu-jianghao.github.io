@@ -29,6 +29,9 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> Meng Qu, Jian Tang. "[Probabilistic Logic Neural Networks for Reasoning
+](https://128.84.21.199/abs/1906.08495)", arXiv:1906.08495.
+* <span style="color:red">New!!</span> Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang. "[vGraph: A Generative Model for Joint Community Detection and Node Representation Learning](https://arxiv.org/abs/1906.07159)", arXiv:1906.07159.
 * <span style="color:red">New!!</span> Meng Qu, Yoshua Bengio, and Jian Tang. "[GMNN: Graph Markov Neural Networks](https://arxiv.org/abs/1905.06214)". To appear at the 36th International Conference on Machine Learning (ICML'19), Long Beach, California, United States. [codes](https://github.com/DeepGraphLearning/GMNN/stargazers)
 * <span style="color:red">New!!</span> Zhiqing Sun, Jian Tang, Pan Du, Zhi-Hong Deng and Jian-Yun Nie. "DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases." To appear at the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval, July 21-25, 2019, Paris, France.
 * <span style="color:red">New!!</span> Zhaocheng Zhu, Shizhen Xu, Meng Qu, Jian Tang. "[GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding](https://arxiv.org/pdf/1903.00757.pdf)". To appear at the Web Conference 2019 (formerly known as WWW'2019), San Francisco, CA, USA, May 13-17, 2019,
