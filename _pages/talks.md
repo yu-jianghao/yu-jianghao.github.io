@@ -3,6 +3,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+* Talk "Graph Representation Learning and Reasoning" at Peking University, Tsinghua University, Shanghai Jiaotong University, University of Science and Technology, July, 2019. 
 * Keynote Speaker: "Graph Representation Learning: Algorithms, Applications, Systems" at the invitation-only AI Experts Workshop in [AI for Good Global Summit, Geneva, Swithland](https://aiforgood.itu.int/programme/day-0/).
 * Invited Speaker: "GMNN: Graph Markov Neural Networks" at IPAM Workshop "Deep Geometric Learning of Big Data and Applications", UCLA, United States, 2019.5 [video](http://www.ipam.ucla.edu/abstract/?tid=16001&pcode=GLWS4), [slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/GMNN_ICML19.pptx)
 * Talk "Graph Representation Learning: Algorithms, Applications, Systems" in Computer Science Department at UCLA, United States, 2019.5
