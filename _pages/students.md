@@ -24,7 +24,7 @@ Alumni
 * Chence Shi(Undergraduate, Peking University), summer, 2019
 * Zhijian Duan(Undergraduate, Peking University), summer, 2019
 * Minkai Xu (Undergraduate, Shanghai JiaoTong University), summer, 2019
-* Ledian Liu(Undergraduate, Peking University), summer, 2019
+* Ledian Liu(Undergraduate, Shanghai JiaoTong University), summer, 2019
 * Carlos Eduardo (Ph.D., IMT Atlantique), 2018.10-2019.9
 * Weiping Song (Ph.D., Peking University), 2018.10-2019.9 
 * Fan-Yun Sun (Undergraduate, National Taiwan University), 2018.12-2019.5
