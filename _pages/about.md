@@ -32,8 +32,8 @@ Research Interests
 Recent Papers
 ======
 * <span style="color:red">New!!</span> Meng Qu, Jian Tang. "[Probabilistic Logic Neural Networks for Reasoning
-](https://128.84.21.199/abs/1906.08495)", arXiv:1906.08495.
-* <span style="color:red">New!!</span> Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang. "[vGraph: A Generative Model for Joint Community Detection and Node Representation Learning](https://arxiv.org/abs/1906.07159)", arXiv:1906.07159.
+](https://128.84.21.199/abs/1906.08495)", to appear at the Thirty-third Annual Conference on Neural Information Processing Systems (NeurIPS‘19), Vancouver, Canada, Dec.8-15, 2019.
+* <span style="color:red">New!!</span> Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang. "[vGraph: A Generative Model for Joint Community Detection and Node Representation Learning](https://arxiv.org/abs/1906.07159)", to appear at the Thirty-third Annual Conference on Neural Information Processing Systems (NeurIPS’19), Vancouver, Canada, Dec.8-15, 2019.
 * <span style="color:red">New!!</span> Fan-Yun Sun, Jordan Hoffmann, Jian Tang."[InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization
 ](https://arxiv.org/abs/1908.01000)", arXiv:1908.01000.
 * <span style="color:red">New!!</span> Weiping Song, Chence Shi, Zhiping Xiao, Zhijian Duan, Yewen Xu, Ming Zhang, Jian Tang. "[AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/pdf/1810.11921.pdf)." In the 28th ACM International Conference on Information and Knowledge Management (CIKM'19), November 3rd-7th, Beijing, China. [codes](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/featureRec)
