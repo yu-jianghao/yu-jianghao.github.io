@@ -31,6 +31,8 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> Jordan Hoffmann, Louis Maestrati, Yoshihide Sawada, Jian Tang, Jean Michel Sellier, Yoshua Bengio. "[Data-Driven Approach to Encoding and Decoding 3-D Crystal Structures
+](https://arxiv.org/abs/1909.00949)", arXiv:1909.00949.
 * <span style="color:red">New!!</span> Meng Qu, Jian Tang. "[Probabilistic Logic Neural Networks for Reasoning
 ](https://128.84.21.199/abs/1906.08495)", to appear at the Thirty-third Annual Conference on Neural Information Processing Systems (NeurIPS‘19), Vancouver, Canada, Dec.8-15, 2019.
 * <span style="color:red">New!!</span> Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang. "[vGraph: A Generative Model for Joint Community Detection and Node Representation Learning](https://arxiv.org/abs/1906.07159)", to appear at the Thirty-third Annual Conference on Neural Information Processing Systems (NeurIPS’19), Vancouver, Canada, Dec.8-15, 2019.
