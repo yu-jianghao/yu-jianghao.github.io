@@ -31,6 +31,8 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> Vikas Verma, Meng Qu, Alex Lamb, Yoshua Bengio, Juho Kannala, Jian Tang. "[GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning
+](https://arxiv.org/abs/1909.11715)", arXiv:1909.11715.
 * <span style="color:red">New!!</span> Jordan Hoffmann, Louis Maestrati, Yoshihide Sawada, Jian Tang, Jean Michel Sellier, Yoshua Bengio. "[Data-Driven Approach to Encoding and Decoding 3-D Crystal Structures
 ](https://arxiv.org/abs/1909.00949)", arXiv:1909.00949.
 * <span style="color:red">New!!</span> Meng Qu, Jian Tang. "[Probabilistic Logic Neural Networks for Reasoning
@@ -50,9 +52,6 @@ Recent Papers
 *  <span style="color:red">New!!</span> Pengfei Liu, Shuaichen Chang, Xuanjing Huang, Jian Tang, Jackie Chi Kit Cheung. "[Contextualized Non-local Neural Networks for Sequence Learning](https://arxiv.org/pdf/1811.08600.pdf)." In the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI'19), Hawaii, USA, 2019.
 * <span style="color:red">New!!</span> Mingjie Sun, Jian Tang, Huichen Li, Bo Li, Chaowei Xiao, Yao Chen, Dawn Song. "[Data Poisoning Attack against Unsupervised Node Embedding Methods](https://arxiv.org/pdf/1810.12881.pdf)." arXiv:1810.12881
 * <span style="color:red">New!!</span> Weiping Song, Zhiping Xiao, Yifan Wang, Laurent Charlin, Ming Zhang and Jian Tang. "[Session-based Social Recommendation via Dynamic Graph Attention Networks](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/MyPapers/Song-WSDM19.pdf)." In the 12th ACM International Conference on Web Search and Data Mining (WSDM'19), Melbourne, Australia, February 11-15, 2019. [codes](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec)
-* Jiezhong Qiu, Jian Tang, Hao Ma, Yuxiao Dong, Kuansan Wang, and Jie Tang. [DeepInf: Social Influence Prediction with Deep Learning.](https://www.haoma.io/pdf/deepinf.pdf). In Proceedings of the Twenty-Fourth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'18)
-* Quanyu Dai, Qiang Li, Jian Tang, and Dan Wang. [Adversarial Network Embedding](https://arxiv.org/abs/1711.07838), in Proc. of 2018 AAAI Conf. on Artificial Intelligence (AAAI'18), New Orleans, LA, Feb. 2018
-* Meng Qu, Jian Tang, and Jiawei Han, [Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3159711),  in Proc. of 2018 ACM  Int. Conf. on Web Search and Data Mining (WSDM'18), Los Angeles, CA, Feb. 2018
 
 Selected Publications
 ======
