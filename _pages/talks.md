@@ -3,7 +3,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-* Talk "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning" at the annual Mila-Microsoft Workshp. 16th, October, 2019.
+* Talk "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning" at the annual Mila-Microsoft Workshop. 16th, October, 2019.
 * Invited Talk "Graph Representation Learning and Applications to Drug Discovery" at the first annual conference of Canada Chapter of Chinese Biopharmaceutical Association, 5th, October, 2019
 * Invited Talk "Towards Combining Statistical Relational Learning and Graph Neural Networks" at IBM New York, August, 2019.
 * Talk "Graph Representation Learning and Reasoning" at Peking University, Tsinghua University, Shanghai Jiaotong University, University of Science and Technology, July, 2019. 
