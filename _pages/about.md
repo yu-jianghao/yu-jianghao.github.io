@@ -14,6 +14,7 @@ I am currently an assistant professor at [Mila-Quebec AI Institute](https://mila
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> We released the code of the pLogicNet model in our NeurIPS'19 paper "Probabilistic Logic Neural Networks for Reasoning".
 * <span style="color:red">New!!</span> We just released our GraphVite system, which is super effecient and only takes one minute to learn the node embeddings of a graph with one million nodes. It now supports three different tasks including node embeddings, knowledge graph embeddings, and graph&high-dimensional data visualization. For more information, check this [link](https://graphvite.io/)
 * <span style="color:red">New!!</span> We just released a library of recommender systems with deep neural networks including session-based recommendation, feature-based recommendation, and social recommenddation. For more information, check this [link](https://github.com/DeepGraphLearning/RecommenderSystems)
 * We just released the source codes of our RotatE model. The codes are available at [link](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding).
@@ -37,7 +38,7 @@ Recent Papers
 ](https://arxiv.org/abs/1909.00949)", arXiv:1909.00949.
 * <span style="color:red">New!!</span> Meng Qu, Jian Tang. "[Probabilistic Logic Neural Networks for Reasoning
 ](https://128.84.21.199/abs/1906.08495)", to appear at the Thirty-third Annual Conference on Neural Information Processing Systems (NeurIPS‘19), Vancouver, Canada, Dec.8-15, 2019.
-* <span style="color:red">New!!</span> Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang. "[vGraph: A Generative Model for Joint Community Detection and Node Representation Learning](https://arxiv.org/abs/1906.07159)", to appear at the Thirty-third Annual Conference on Neural Information Processing Systems (NeurIPS’19), Vancouver, Canada, Dec.8-15, 2019.
+* <span style="color:red">New!!</span> Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang. "[vGraph: A Generative Model for Joint Community Detection and Node Representation Learning](https://arxiv.org/abs/1906.07159)", to appear at the Thirty-third Annual Conference on Neural Information Processing Systems (NeurIPS’19), Vancouver, Canada, Dec.8-15, 2019.[codes](https://github.com/DeepGraphLearning/pLogicNet)
 * <span style="color:red">New!!</span> Fan-Yun Sun, Jordan Hoffmann, Jian Tang."[InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization
 ](https://arxiv.org/abs/1908.01000)", arXiv:1908.01000.
 * <span style="color:red">New!!</span> Weiping Song, Chence Shi, Zhiping Xiao, Zhijian Duan, Yewen Xu, Ming Zhang, Jian Tang. "[AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/pdf/1810.11921.pdf)." In the 28th ACM International Conference on Information and Knowledge Management (CIKM'19), November 3rd-7th, Beijing, China. [codes](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/featureRec)
