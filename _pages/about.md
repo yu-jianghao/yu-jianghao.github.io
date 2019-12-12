@@ -32,6 +32,8 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> Louis-Pascal AC Xhonneux, Meng Qu, Jian Tang. "[Continuous Graph Neural Networks](https://arxiv.org/pdf/1912.00967.pdf)", arXiv:1912.00967. 
+* <span style="color:red">New!!</span> Xiaozhi Wang, Tianyu Gao, Zhaocheng Zhu, Zhiyuan Liu, Juanzi Li, Jian Tang. "[KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation](https://arxiv.org/pdf/1911.06136.pdf)",  arXiv:1911.06136.
 * <span style="color:red">New!!</span> Vikas Verma, Meng Qu, Alex Lamb, Yoshua Bengio, Juho Kannala, Jian Tang. "[GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning
 ](https://arxiv.org/abs/1909.11715)", arXiv:1909.11715.
 * <span style="color:red">New!!</span> Jordan Hoffmann, Louis Maestrati, Yoshihide Sawada, Jian Tang, Jean Michel Sellier, Yoshua Bengio. "[Data-Driven Approach to Encoding and Decoding 3-D Crystal Structures
