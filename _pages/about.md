@@ -32,6 +32,9 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> Chence Shi*, Minkai Xu*, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang. GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation. To appear at the International Conference on Learning Representations 2020 (ICLR'20),  Addis Ababa, Ethiopia, Apr.26-Apr. 30, 2020
+* <span style="color:red">New!!</span> Fan-Yun Sun, Jordan Hoffmann, Jian Tang."[InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization
+](https://arxiv.org/abs/1908.01000)." To appear at the International Conference on Learning Representations 2020 (ICLR'20),  Addis Ababa, Ethiopia, Apr.26-Apr. 30, 2020
 * <span style="color:red">New!!</span> Louis-Pascal AC Xhonneux, Meng Qu, Jian Tang. "[Continuous Graph Neural Networks](https://arxiv.org/pdf/1912.00967.pdf)", arXiv:1912.00967. 
 * <span style="color:red">New!!</span> Xiaozhi Wang, Tianyu Gao, Zhaocheng Zhu, Zhiyuan Liu, Juanzi Li, Jian Tang. "[KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation](https://arxiv.org/pdf/1911.06136.pdf)",  arXiv:1911.06136.
 * <span style="color:red">New!!</span> Vikas Verma, Meng Qu, Alex Lamb, Yoshua Bengio, Juho Kannala, Jian Tang. "[GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning
@@ -41,8 +44,6 @@ Recent Papers
 * <span style="color:red">New!!</span> Meng Qu, Jian Tang. "[Probabilistic Logic Neural Networks for Reasoning
 ](https://128.84.21.199/abs/1906.08495)", to appear at the Thirty-third Annual Conference on Neural Information Processing Systems (NeurIPS‘19), Vancouver, Canada, Dec.8-15, 2019. [codes](https://github.com/DeepGraphLearning/pLogicNet)
 * <span style="color:red">New!!</span> Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang. "[vGraph: A Generative Model for Joint Community Detection and Node Representation Learning](https://arxiv.org/abs/1906.07159)", to appear at the Thirty-third Annual Conference on Neural Information Processing Systems (NeurIPS’19), Vancouver, Canada, Dec.8-15, 2019.
-* <span style="color:red">New!!</span> Fan-Yun Sun, Jordan Hoffmann, Jian Tang."[InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization
-](https://arxiv.org/abs/1908.01000)", arXiv:1908.01000.
 * <span style="color:red">New!!</span> Weiping Song, Chence Shi, Zhiping Xiao, Zhijian Duan, Yewen Xu, Ming Zhang, Jian Tang. "[AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/pdf/1810.11921.pdf)." In the 28th ACM International Conference on Information and Knowledge Management (CIKM'19), November 3rd-7th, Beijing, China. [codes](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/featureRec)
 * <span style="color:red">New!!</span> Meng Qu, Yoshua Bengio, and Jian Tang. "[GMNN: Graph Markov Neural Networks](https://arxiv.org/abs/1905.06214)". To appear at the 36th International Conference on Machine Learning (ICML'19), Long Beach, California, United States. [codes](https://github.com/DeepGraphLearning/GMNN/stargazers)
 * <span style="color:red">New!!</span> Yanru Qu, Ting Bai, Weinan Zhang, Jianyun Nie, Jian Tang. "[An End-to-End Neighborhood-based Interaction Model for Knowledge-enhanced Recommendation](https://dlp-kdd.github.io/assets/pdf/a8-qu.pdf)". In the first Workshop on Deep Learning Practice for High-dimensional Space data, KDD 2019, Alaska, US. (<span style="color:red">Best paper</span>)
