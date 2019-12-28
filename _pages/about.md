@@ -33,7 +33,7 @@ Research Interests
 
 Recent Papers
 ======
-* <span style="color:red">New!!</span> Chence Shi*, Minkai Xu*, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang. GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation. To appear at the International Conference on Learning Representations 2020 (ICLR'20),  Addis Ababa, Ethiopia, Apr.26-Apr. 30, 2020
+* <span style="color:red">New!!</span> Chence Shi*, Minkai Xu*, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang. "[GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://openreview.net/attachment?id=S1esMkHYPr&name=original_pdf)". To appear at the International Conference on Learning Representations 2020 (ICLR'20),  Addis Ababa, Ethiopia, Apr.26-Apr. 30, 2020
 * <span style="color:red">New!!</span> Fan-Yun Sun, Jordan Hoffmann, Jian Tang."[InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization
 ](https://arxiv.org/abs/1908.01000)." To appear at the International Conference on Learning Representations 2020 (ICLR'20),  Addis Ababa, Ethiopia, Apr.26-Apr. 30, 2020
 * <span style="color:red">New!!</span> Louis-Pascal AC Xhonneux, Meng Qu, Jian Tang. "[Continuous Graph Neural Networks](https://arxiv.org/pdf/1912.00967.pdf)", arXiv:1912.00967. 
