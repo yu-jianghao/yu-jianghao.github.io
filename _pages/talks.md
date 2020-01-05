@@ -3,6 +3,11 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+* Guest Lecture "Graph Representation Learning and Applications", Mcgill University, November.
+* Guest Lecture "Graph Representation Learning and Applications", University of Montreal, November.
+* Invited Talk "Graph Representation Learning and Applications" at National Research Council Canada, 13rd, November.
+* Invited Talk "Graph Representation Learning and Applications to Drug Discovery", Midi Recherche, HEC Montreal, 6th, November.
+* Invited Talk "Graph Representation Learning and Applications to Drug Discovery" at the Clinical Research Association of Canada, 29th, October, 2019. 
 * Invited Talk "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning" at the [Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-montreal-2019), Montreal, 24th, October, 2019. [Slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/SRLAndGNN-ReWork-Tang.pdf)
 * Talk "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning" at the annual Mila-Microsoft Workshop. 16th, October, 2019.
 * Invited Talk "Graph Representation Learning and Applications to Drug Discovery" at the first annual conference of Canada Chapter of Chinese Biopharmaceutical Association, 5th, October, 2019
