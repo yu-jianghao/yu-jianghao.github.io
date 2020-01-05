@@ -10,7 +10,9 @@ redirect_from:
 
 I am currently an assistant professor at [Mila-Quebec AI Institute](https://mila.umontreal.ca/en/) and [HEC Montreal](http://www.hec.ca/). Prior to that, I was a Postdoc at University of Michigan and Carnegie Mellon University. I also worked at [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher between 2014-2016. For more information, please check my [CV](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/CV/CV_JianTang_2020Jan.pdf).
 
-<span style="color:red">New!!</span> I'm looking for students (Postdoc, Ph.D., MSc., and interns)!! Students who are interested in working with me please apply through [Mila admission](https://mila.quebec/en/admission/) or send me an email directly. 
+I am looking for students (Postdoc, Ph.D., MSc., and interns)!! Students who are interested in working with me please apply through [Mila admission](https://mila.quebec/en/admission/) or send me an email directly. 
+
+I am teaching a new course [Deep Learning and Applications](https://deepgraphlearning.github.io/coursewebsite/) this semester!!
 
 <span style="color:red">What's New</span>
 ======
