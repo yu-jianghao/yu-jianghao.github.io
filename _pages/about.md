@@ -14,10 +14,10 @@ I am looking for students (Postdoc, Ph.D., MSc., and interns)!! Students who are
 
 <span style="color:red">What's New</span>
 ======
-* <span style="color:red">New!!</span> Received a Amazon Faculty Research Award.
-* <span style="color:red">New!!</span> Received a Microsoft-Mila collaboration grant on "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning". 
+* <span style="color:red">New!!</span> Received a Amazon Faculty Research Award. Thanks Amazon!
+* <span style="color:red">New!!</span> Received a Microsoft-Mila collaboration grant on "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning". Thanks Microsoft!
 * <span style="color:red">New!!</span> Received a Collaborative Research and Development Grant on "Intelligent Design through Graph Generation with Deep Generative Models and Reinforcement Learning" from National Research Council Canada (NRC). Thanks NRC!
-* I am teaching a new course [Deep Learning and Applications](https://deepgraphlearning.github.io/coursewebsite/) this semester!
+* <span style="color:red">New!!</span> I am teaching a new course [Deep Learning and Applications](https://deepgraphlearning.github.io/coursewebsite/) this semester!
 * <span style="color:red">New!!</span> Two papers on graph representation learning for drug discovery are accepted to ICLR'2020!!
 * <span style="color:red">New!!</span> We released the [codes](https://github.com/DeepGraphLearning/pLogicNet) of the pLogicNet model in our NeurIPS'19 paper "Probabilistic Logic Neural Networks for Reasoning"
 * <span style="color:red">New!!</span> We just released our GraphVite system, which is super effecient and only takes one minute to learn the node embeddings of a graph with one million nodes. It now supports three different tasks including node embeddings, knowledge graph embeddings, and graph&high-dimensional data visualization. For more information, check this [link](https://graphvite.io/)
