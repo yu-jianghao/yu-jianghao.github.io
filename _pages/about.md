@@ -13,7 +13,7 @@ I am currently an assistant professor at [Mila-Quebec AI Institute](https://mila
 I am looking for very strong students and have multiple positions in my group (including Postdocs, PhDs, MSc, and interns). Students who are interested in working with me please apply through [Mila admission](https://mila.quebec/en/admission/) or send me an email directly. In particular, I am looking for students with the following background:
 * Graph representation learning, Graph Neural Networks, Knowledge graphs
 * Deep generative models
-* Bioinformatics
+* Bioinformatics, medicine
 
 
 <span style="color:red">What's New</span>
