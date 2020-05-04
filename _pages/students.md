@@ -4,20 +4,18 @@ permalink: /students/
 author_profile: true
 ---
 
-Ph.D.
+Graduate Students
 ---
 * Meng Qu (Peking University, 2019.1-)
 * Zhaocheng Zhu (Peking University, 2018.9-)
 * Andreea Deac (University of Cambridge, 2019.9-)
-* Shengchao Liu (University of Wisconsin–Madison, 2019.9-)
 * Louis-Pascal Xhonneux (University of Cambridge, 2019.9-)
-
-Interns 
----
-* Jordan Hoffmann (5th year Ph.D., Harvard University), 2019.5- (Co-supervised with Yoshua Bengio)
-
+* Shengchao Liu (University of Wisconsin–Madison, 2020.1-)
+* Chence Shi (Peking University, 2020.9-)
+* Minkai Xu (Shanghai Jiaotong University, 2020.9-)
 Alumni
 ---
+* Jordan Hoffmann (5th year Ph.D., Harvard University), 2019.5-2019.9 Co-supervised with Yoshua Bengio)
 * Tianyu Gao(Undergraduate, Tsinghua University), summer, 2019
 * Shengding Hu(Undergraduate, Tsinghua University), summer, 2019
 * Xiaozhi Wang(Undergraduate, Tsinghua University), summer, 2019
