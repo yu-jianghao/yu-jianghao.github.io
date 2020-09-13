@@ -34,6 +34,9 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i>Email:jhyu@itp.ac.cn</a></li>
       {% endif %}
+      {% if author.itpcas %}
+        <li><a href="https://www.itp.cas.cn/"><i class="fa fa-fw fa-university" aria-hidden="true"></i>ITP-CAS website</a></li>
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -42,9 +45,6 @@
       {% endif %}
       {% if author.arxiv %}
         <li><a href="https://arxiv.org/list/hep-ph/new"><i class="fa fa-fw fa-book" aria-hidden="true"></i>arXiv hep-ph</a></li>
-      {% endif %}
-      {% if author.itpcas %}
-        <li><a href="https://www.itp.cas.cn/"><i class="fa fa-fw fa-university" aria-hidden="true"></i>ITP-CAS website</a></li>
       {% endif %}
       {% if author.casmail %}
         <li><a href="https://mail.cstnet.cn"><i class="fa fa-fw fa-envelope" aria-hidden="true"></i>CAS Mail Link</a></li>
