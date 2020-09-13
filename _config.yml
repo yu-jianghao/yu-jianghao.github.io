@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Tang's Homepage"
+title                    : "Jiang-Hao Yu's Homepage"
 title_separator          : "-"
-name                     : &name "Jian Tang"
-description              : &description "Assitant Professor"
-description              : &description "HEC Montreal"
-description              : &description "Montreal Institute for Learning Alogorithms (MILA)"
-url                      : https://tangjianpku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jiang-Hao Yu"
+description              : &description "Associate Professor"
+description              : &description "Institute of Theoretical Physics"
+description              : &description "Chinese Academy of Science"
+url                      : https://jhyu-itp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tangjianpku/tangjianpku.github.io"
+repository               : "jhyu-itp/jhyu-itp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Jian Tang"
-  avatar           : "jian.jpg"
+  name             : "Dr. Jiang-Hao Yu"
+  avatar           : ".jpg"
   bio              : |
-    Assistant Professor, <br>
-    HEC Montreal <br>
-    Montreal Institute for Learning Alogorithms (MILA)
-  location         : "Montreal, Canada"
+    Associate Professor, <br>
+    Institute of Theoretical Physics <br>
+    Chinese Academy of Science
+  location         : "Beijing, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en"
-  email            :
+  googlescholar    : "https://inspirehep.net/authors/1066117"
+  email            : "jhyu@itp.ac.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjianpku"
+  github           : "jhyu-itp"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,12 +106,12 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "tangjianpku"
+  twitter          : 
   vine             :
-  weibo            : "1741301241/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
