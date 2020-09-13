@@ -13,9 +13,6 @@ main:
   - title: "News"
     url: /projects/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Talks"
     url: /talks/  
 
@@ -24,6 +21,9 @@ main:
 
   - title: "Softwares"
     url: /softwares/
+
+  - title: "CV"
+    url: /cv/
 
   - title: "Jobs"
     url: /services/
