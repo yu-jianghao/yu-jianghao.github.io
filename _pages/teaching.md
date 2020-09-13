@@ -14,4 +14,4 @@ This page is intended for outline and materials in my teaching courses, and in t
 
 ## 2020 Fall, Training course
 
-1. [Introduction to Effective Field Theory](/teaching/graph2019), fall, 2020
+1. [Introduction to Effective Field Theory](/teaching/2020-fall-eft), fall, 2020
