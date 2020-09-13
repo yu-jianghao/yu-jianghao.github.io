@@ -3,42 +3,38 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-* Guest Lecture "Graph Representation Learning and Applications", Mcgill University, November.
-* Guest Lecture "Graph Representation Learning and Applications", University of Montreal, November.
-* Invited Talk "Graph Representation Learning and Applications" at National Research Council Canada, 13rd, November.
-* Invited Talk "Graph Representation Learning and Applications to Drug Discovery", Midi Recherche, HEC Montreal, 6th, November.
-* Invited Talk "Graph Representation Learning and Applications to Drug Discovery" at the Clinical Research Association of Canada, 29th, October, 2019. 
-* Invited Talk "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning" at the [Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-montreal-2019), Montreal, 24th, October, 2019. [Slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/SRLAndGNN-ReWork-Tang.pdf)
-* Talk "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning" at the annual Mila-Microsoft Workshop. 16th, October, 2019.
-* Invited Talk "Graph Representation Learning and Applications to Drug Discovery" at the first annual conference of Canada Chapter of Chinese Biopharmaceutical Association, 5th, October, 2019
-* Invited Talk "Towards Combining Statistical Relational Learning and Graph Neural Networks" at IBM New York, August, 2019.
-* Talk "Graph Representation Learning and Reasoning" at Peking University, Tsinghua University, Shanghai Jiaotong University, University of Science and Technology, July, 2019. 
-* Keynote Speaker: "Graph Representation Learning: Algorithms, Applications, Systems" at the invitation-only AI Experts Workshop in [AI for Good Global Summit, Geneva, Swithland](https://aiforgood.itu.int/programme/day-0/).
-* Invited Speaker: "GMNN: Graph Markov Neural Networks" at IPAM Workshop "Deep Geometric Learning of Big Data and Applications", UCLA, United States, 2019.5 [video](http://www.ipam.ucla.edu/abstract/?tid=16001&pcode=GLWS4), [slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/GMNN_ICML19.pptx)
-* Talk "Graph Representation Learning: Algorithms, Applications, Systems" in Computer Science Department at UCLA, United States, 2019.5
-* Talk "Knowledge graph embedding and alignment", Mila-Samsung Workshop, 2019.5, [slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/KB_SamSung.pptx)
-* Talk "Graph Representation Learning: Algorithms, Applications, Systems" in the Statistics Department at McGill University, 2019.4
-* Talk "Graph Representation Learning and Applications in Healthcare and Biomedical Applications" Faculty Seminar on AI and healthcare at McGill University, 2019.4.
-* Talk "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space" at Peking Univeristy,2019.1.
-* Talk "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space" at Huawei inhouse workshop,2018.12.
-* Talk "Graph representation learning and applications" at Université du Québec à Montréal. 2018.11
-* Talk "Graph Representation Learning for Natural Language Understanding and Reasoning", Natural Language Processing Workshop for MILA Sponsors and Partners. 2018. 9
-* Talk "Graph Representation Learning and Applications", Tsinghua University, 2018.7.
-* Talk "Learning Representations of Graphs" at Google Brain, Montreal, 2018.05.07.
-* Invited talk "Progress and Future Directions of Network Representations" at Machine Intelligence Frontier Seminar 2017, CCF special topic on knowledge graph, 2017.10
-* Invited talk "Towards combining information retrieval and reasoning for natural language understanding", at Tsinghua University, 2017.9.
-* Tutorial “Learning representations of large-scale networks” at KDD 2017, Halifax, Canada, 2017.8 [slides](/files/KDD17Tutorial_final.pdf)
-* Talk "Introduction to Deep Learning \& How to Do Research in Machine Learning", at Peking University, 2017.6
-* Talk "Visualizing large-scale and high-dimensional data", at PKU-UCLA Symposium. 2017. 7
-* Talk "Learning representations of large-scale networks", at Peking University, Tsinghua University, JingDong, iFlytek,  TianYanCha, Toutiao AI Lab, 2017.6-7.
-* Talk "Learning representations of large-scale networks", at HEC Montreal.
-* Talk "Learning representations of large-scale networks", at University of Montreal.
-* Talk "Visualizing large-scale and high-dimensional data" at  School of Information, Central University of Finance and Economics, 2016.
-* Talk "Visualizing large-scale and high-dimensional data" at  MOE-Microsoft Key Laboratory of Statistics and Information Technology of Peking University, 2016.
-* Invited talk "Learning text embedding via network embedding" at 9th National R Meeting, 2016. slides.
-* Invited talk "Study on the limiting factors of topic modeling" at the China National Computer Congress (CNCC) 2015.
-* Invited talk "LINE: large-scale information network embedding" at Beijing Institute of Technology, Alibaba Technical Forum. 
-* Oral presentation at KDD 2013, ICML 2014, WWW 2015, KDD 2015.
-* Invited talk "Look Ma, No hands! A parameter-free topic model" at student seminar of statistics department in University of Michigan.
-* Talk "Look Ma, No hands! A parameter-free topic model" at the 4th Michigan data mining workshop.
-* 2009.7 programming language summer school, in University of Oregon. 
+
+This page lists seminars and talks that I give, and the conferences I organize. 
+
+
+## Seminar and Talks in 2020年报告
+
+1. 2020.5.29，**Nature of Higgs Boson: SMEFT, HEFT, or more?**, 24th Mini-workshop on the frontier of LHC, Center for High Energy Physics, 北京大学
+
+2. 2020.6.10, **Twin Cogenesis**, 兰州大学核科学与技术学院报告
+
+3. 2020.6.21，**暗物质的理论和探测方案**，“冷原子、暗物质和引力波”专题研讨会
+
+4. 2020.6.27，**基本粒子和场论的新挑战**，中科院理论物理研究所，夏令营
+
+5. 2020.7.31，**Nature of Higgs Boson and Shape of Higgs Potential**, 电弱相变与Higgs物理专题研讨会，高能所
+
+6. 2020.9.1-4，**Neutral Naturalness and Its Cosmological History**，兰州大学学术周报告
+  
+
+
+
+## Organized Conferences会议组织
+
+1. 2020.8.2 - 2020.8.8， 第十一届威海新物理研讨会，山东威海 （postpone to 2021.8）
+
+2. 2019.10.9 - 2019.10.19, “超出标准模型的新物理”国际联合研讨会，北京香山，[indico page](https://indico.itp.ac.cn/event/3/overview)
+
+More conferences please look at [ITP-INDICO](https://indico.itp.ac.cn/category/2/) page。 
+
+
+## 2019 and previous years
+
+more will be added here ....
+
+
