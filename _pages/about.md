@@ -23,7 +23,7 @@ If you are interested in my research, please check out my publications at [INSPI
 
 
 <p align="center">
-<img src="/images/yuoffice.jpg" alt="于江浩" title="Jiang-Hao Yu" width="150"/>
+<img src="/images/yuoffice.jpg" alt="于江浩" title="Jiang-Hao Yu" width="220"/>
      <br />
     <em>Jiang-Hao Yu 于江浩 </em>
 </p>
