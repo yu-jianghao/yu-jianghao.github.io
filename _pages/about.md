@@ -13,7 +13,7 @@ This is the homepage for Jiang-Hao Yu's research group.
 -----------------
 
 
-I am Jiang-Hao Yu, an associate professor at Institute of Theoretical Physics, Chinese Academy of Science ([ITP-CAS](http://english.itp.cas.cn)). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS at 2017. 
+I am Jiang-Hao Yu, associate professor at Institute of Theoretical Physics, Chinese Academy of Science ([ITP-CAS](http://english.itp.cas.cn)). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS at 2017. 
 
 My research area is theoretical particle physics and particle cosmology, focusing on origin of the Higgs mass and neutrino masses, origin of matter and dark matter, and effective field theories. Recently I am working on naturalness and shape of Higgs potential, standard model and chiral effective field theory, electroweak phase transition and baryogenesis, dark matter and cosmological signatures.  
 
@@ -51,63 +51,23 @@ If you are interested in my research, please check out my publications at [INSPI
 
 In this research group, currently we have two postdocs:
 
-
-<table>
-  <tr>
-    <td><img src="/images/bio-photo.jpg" width=120></td>
-    <td><img src="/images/bio-photo.jpg" width=120></td>
-  </tr>
-    <tr>
-    <td>Hao-Lin Li 李浩林 (2018 - )</td>
-     <td>Yong Du 杜勇 (2020 - )</td>
-  </tr>
-</table>
-
-
+* Hao-Lin Li 李浩林 (2018 - )
+* Yong Du 杜勇 (2020 - )
 
 and four graduate students:
 
 
-<p align="center">
-<table>
-  <tr>
-    <td><img src="/images/bio-photo.jpg" width=120></td>
-    <td><img src="/images/bio-photo.jpg" width=120></td>
-    <td><img src="/images/bio-photo.jpg" width=120></td>
-    <td><img src="/images/bio-photo.jpg" width=120></td>
-  </tr>
-    <tr>
-    <td>Zhe Ren 任哲  </td>
-     <td>Yuan-Zhen Li 李沅桢 </td>
-     <td>Yu-Han Ni 倪郁涵 </td>
-      <td>Hao Sun 孙浩 </td>
-  </tr>
-</table>
-</p>
-
-<!--Zhe Ren (任哲)
-Yuan-Zhen Li (李沅桢)
-Yu-Han Ni (倪郁涵)
-Hao Sun (孙浩) 
-Hao-Lin Li (李浩林)
-Yong Du (杜勇)  style="margin-left:auto;margin-right:auto;" -->
-
-
+* Zhe Ren 任哲   
+* Yuan-Zhen Li 李沅桢  
+* Yu-Han Ni 倪郁涵 
+* Hao Sun 孙浩  
 
 -----------------
 
 
 We also provide research opportunities for undergraduate students, currently two undergraduate students are working with me:
 
-<center>
-<table>
-  <tr>
-    <td><img src="/images/bio-photo.jpg" width=120></td>
-  </tr>
-    <tr>
-    <td>Yi-Ning Wang 王一宁 (山东大学) </td>
-  </tr>
-</table>
-</center>
+* Yi-Ning Wang 王一宁 (山东大学)  
+
 
 -----------------
