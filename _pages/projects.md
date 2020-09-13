@@ -11,8 +11,10 @@ We have a weekly group meeting, and journal club, which are usually informed via
 
 ## Current News
 
-### During fall 2020, we arrange the weekly group meeting on Wednesday morning 9:30 am.
-### 
+### Group Meeting During Fall 2019 
+
+During fall 2020, we arrange the weekly group meeting on Wednesday morning 9:30 am.
+ 
 
 ## Previous News
 
@@ -28,6 +30,19 @@ Shoo-Feng Ge （葛绍峰），Tsung-Dao Lee Institute and Shanghai Jiao Tong Un
 
    Ran Huo, 14:00, Nov. 26, 2019, Tuesday ITP South Building 6420
 
+### Seminar:
+
+Complementary test of the model by the synergy between measurements of gravitational waves and Higgs couplings
+
+Katsuya Hashino， Center of High Energy Physics, Peking University， 2019年9月5日（周四）下午3:30， ITP South Building 6620
+
+
+### Colloquium:
+
+Higgs Boson Physics
+
+C.-P. Yuan, Michigan State University, July 4th, 2019, 3:00 pm, 6620
+
 ###  Seminar: 
 
 Detecting light dark matter with superfluid helium
@@ -40,20 +55,7 @@ Effective field theory approach to lepton number violation: dimension seven oper
 
 廖益 教授，南开大学，6月5日（周三）下午15:00，ITP South (New) Building 6420
 
-### Seminar:
 
-Complementary test of the model by the synergy between measurements of gravitational waves and Higgs couplings
-
-
-Katsuya Hashino， Center of High Energy Physics, Peking University， 2019年9月5日（周四）下午3:30， ITP South Building 6620
-
-
-### Colloquium:
-
-Higgs Boson Physics
-
-
-C.-P. Yuan, Michigan State University, July 4th, 2019, 3:00 pm, 6620
 
 
 
