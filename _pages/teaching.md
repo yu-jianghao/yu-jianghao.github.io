@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching and Training"
 permalink: /teaching/
 author_profile: true
 ---
@@ -14,10 +14,4 @@ This page is intended for outline and materials in my teaching courses, and in t
 
 ## 2020 Fall, Training course
 
-1. [Introduction to Effective Field Theory](/teaching/graph2019)
-
-
-## 2020 Fall, Training course
-
-* [Deep Learning](/teaching/dl2018), Peking University, Summer 2018
-* [Graph Representation Learning](/teaching/graph2019), Peking University, Summer 2019
+1. [Introduction to Effective Field Theory](/teaching/graph2019), fall, 2020
