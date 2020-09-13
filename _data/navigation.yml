@@ -4,29 +4,29 @@ main:
   - title: "Home"
     url: /
 
+  - title: "News"
+    url: /projects/
+
   - title: "Research"
     url: /publications/
+
+  - title: "Students"
+    url: /students/
 
   - title: "CV"
     url: /cv/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/  
 
   - title: "Teaching"
     url: /teaching/
 
   - title: "Softwares"
     url: /softwares/
-    
-  - title: "Students"
-    url: /students/
 
   - title: "Jobs"
     url: /services/
-
-  - title: "Activities"
-    url: /projects/
     
 
     
