@@ -4,5 +4,5 @@ permalink: /softwares/
 author_profile: true
 ---
 
-* **SMEFT**: SMEFT code. ([source code](https://github.com/jhyu-itp))
+* **SMEFT**: SMEFT code. Not yet ready. Stay tuned. ([source code](https://github.com/jhyu-itp))
 
