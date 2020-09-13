@@ -23,7 +23,7 @@ If you are interested in my research, please check out my publications at [INSPI
 
 
 <p align="center">
-<img src="/images/bio-photo.png" alt="于江浩" title="Jiang-Hao Yu" width="150"/>
+<img src="/images/bio-photo.jpg" alt="于江浩" title="Jiang-Hao Yu" width="150"/>
      <br />
     <em>Jiang-Hao Yu 于江浩 </em>
 </p>
@@ -54,8 +54,8 @@ In this research group, currently we have two postdocs:
 
 <table>
   <tr>
-    <td><img src="/images/bio-photo.png" width=120></td>
-    <td><img src="/images/bio-photo.png" width=120></td>
+    <td><img src="/images/bio-photo.jpg" width=120></td>
+    <td><img src="/images/bio-photo.jpg" width=120></td>
   </tr>
     <tr>
     <td>Hao-Lin Li 李浩林 (2018 - )</td>
@@ -71,10 +71,10 @@ and four graduate students:
 <p align="center">
 <table>
   <tr>
-    <td><img src="/images/bio-photo.png" width=120></td>
-    <td><img src="/images/bio-photo.png" width=120></td>
-    <td><img src="/images/bio-photo.png" width=120></td>
-    <td><img src="/images/bio-photo.png" width=120></td>
+    <td><img src="/images/bio-photo.jpg" width=120></td>
+    <td><img src="/images/bio-photo.jpg" width=120></td>
+    <td><img src="/images/bio-photo.jpg" width=120></td>
+    <td><img src="/images/bio-photo.jpg" width=120></td>
   </tr>
     <tr>
     <td>Zhe Ren 任哲  </td>
@@ -102,7 +102,7 @@ We also provide research opportunities for undergraduate students, currently two
 <center>
 <table>
   <tr>
-    <td><img src="/images/bio-photo.png" width=120></td>
+    <td><img src="/images/bio-photo.jpg" width=120></td>
   </tr>
     <tr>
     <td>Yi-Ning Wang 王一宁 (山东大学) </td>
