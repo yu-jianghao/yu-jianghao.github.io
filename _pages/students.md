@@ -6,13 +6,17 @@ author_profile: true
 
 Graduate Students
 ---
-* Zhaocheng Zhu (Peking University, 2018.9-)
-* Meng Qu (Peking University, 2019.1-)
-* Andreea Deac (University of Cambridge, 2019.9-)
-* Louis-Pascal Xhonneux (University of Cambridge, 2019.9-)
-* Shengchao Liu (University of Wisconsin–Madison, 2020.1-)
-* Chence Shi (Peking University, 2020.9-)
-* Minkai Xu (Shanghai Jiaotong University, 2020.9-)
+* Zhe Ren (USTC, 2018.9-)
+* Yuan-Zhen Li (, 2018.9-)
+* Yu-Han Ni (University of Cambridge, 2019.9-)
+* Hao Sun (Shan Dong Univ, 2019.9-)
+* Yi-Ning Wang ()
+
+
+Postdoc Fellow
+---
+* Hao-Lin Li (UMass, 2018.9-)
+* Yong Du (Umass, 2018.9-)
 
 Alumni
 ---
