@@ -37,6 +37,12 @@
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
+      {% if author.inspirehep %}
+        <li><a href="https://inspirehep.net/authors/1066117"><i class="fa fa-fw fa-bookmark" aria-hidden="true"></i> InspireHEP</a></li>
+      {% endif %}
+      {% if author.arxiv %}
+        <li><a href="https://arxiv.org/list/hep-ph/new"><i class="fa fa-fw fa-orcid" aria-hidden="true"></i> ArXiv</a></li>
+      {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
