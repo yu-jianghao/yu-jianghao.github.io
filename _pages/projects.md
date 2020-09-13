@@ -1,18 +1,27 @@
 ---
-title: "Projects"
+title: "News in this group"
 permalink: /projects/
 author_profile: true
 ---
-Current Projects
----
-* Fundamental Problems on Graph Representation Learning
-* Drug Discovery
-* Natural language understanding and reasoning
-* [Recommender Systems](https://github.com/DeepGraphLearning/RecommenderSystems)
-* [Knowledge Graph Embedding](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
 
-Previous Projects
+
+
+Current News
 ---
-* [Big data visualization](../selected_projects/visualization)
-* [Learning representation of networks](/selected_projects/network_representation)
-* [Learning representation of text](/selected_projects/text_representation)
+* ...
+
+Previous News
+---
+* Seminar: 
+* Seminar: 
+
+
+## Group Meeting and Journal Club
+
+We have a bi-weekly group meeting, and bi-weekly journal club, which are usually informed via Wechat group.
+
+## Invited Seminar in this group
+
+The updated list of ITP-CAS seminar is [here](http://www.itp.cas.cn/xshd/ztxxbg/). I encourage students and postdoc to attend seminars and conferences. 
+
+If you are visiting this website and are interested in giving seminar at ITP-CAS, please contact me.
