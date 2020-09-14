@@ -15,7 +15,7 @@ permalink: /publications/
 
 (2) Effective field theory framework:
 
-* standard model effective field theory (Lorentz and gauge symmetry, CPT, and B, L symmetry)
+* standard model effective field theory (Lorentz, gauge, BL, CP symmetry)
 * chiral effective field theories for composite Higgs, electroweak and QCD chiral Lagrangian
 
 (3) Origin of matter and dark matter:
