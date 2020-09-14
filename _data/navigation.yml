@@ -7,11 +7,11 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "Students"
-    url: /students/
-
   - title: "News"
     url: /projects/
+
+  - title: "Students"
+    url: /students/
 
   - title: "Talks"
     url: /talks/  
