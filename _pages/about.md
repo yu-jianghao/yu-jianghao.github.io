@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage for Jiang-Hao Yu's research group.  
+This is the homepage for Jiang-Hao Yu's (于江浩) research group.  
 
 -----------------
 
 
-I am Jiang-Hao Yu, associate professor at Institute of Theoretical Physics, Chinese Academy of Science ([ITP-CAS](http://english.itp.cas.cn)). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS at 2017. 
+I am Jiang-Hao Yu (于江浩), associate professor at Institute of Theoretical Physics, Chinese Academy of Science ([ITP-CAS](http://english.itp.cas.cn)). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS at 2017. 
 
 My research area is theoretical particle physics and particle cosmology, focusing on origin of the Higgs mass and neutrino masses, origin of matter and dark matter, and effective field theories. Recently I am working on naturalness and shape of Higgs potential, standard model and chiral effective field theory, electroweak phase transition and baryogenesis, dark matter and cosmological signatures.  
 
