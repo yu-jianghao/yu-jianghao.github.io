@@ -2,7 +2,7 @@
 title: "国科大研究生课程：量子场论"
 collection: teaching
 type: "graduate course"
-permalink: /teaching/qft
+permalink: /teaching/2020-fall-qft
 venue: "国科大物理学院"
 date: 2020-09-18
 location: "Beijing, China"
@@ -20,7 +20,7 @@ location: "Beijing, China"
 
 ## 参考书：
 
-* Michael E. Peskin and David V. Schroeder, An Introduction to Quantum Field Theory (教科书)
+* Michael E. Peskin and David V. Schroeder, An Introduction to Quantum Field Theory (教科书，作业布置)
 
 * Matthew D. Schwartz, Quantum Field Theory and the Standard Model
 
@@ -56,5 +56,8 @@ location: "Beijing, China"
   * Mode decomposition for scalar field
   * Vacuum and Eigenstates
 
+这次课没有布置作业，但是有课堂练习，并且请补充完整略去的推导过程
+
 ### 2020-09-25
+
 
