@@ -4,11 +4,14 @@ main:
   - title: "Home"
     url: /
 
+  - title: "News"
+    url: /projects/
+
   - title: "Research"
     url: /publications/
 
-  - title: "News"
-    url: /projects/
+  - title: "CV"
+    url: /cv/
 
   - title: "Students"
     url: /students/
@@ -21,9 +24,6 @@ main:
 
   - title: "Softwares"
     url: /softwares/
-
-  - title: "CV"
-    url: /cv/
 
   - title: "Jobs"
     url: /services/
