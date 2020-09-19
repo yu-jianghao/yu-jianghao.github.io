@@ -1,5 +1,5 @@
 ---
-title: "News in Yu's group"
+title: "News and Activities in Yu's group"
 permalink: /projects/
 author_profile: true
 ---
@@ -14,8 +14,7 @@ author_profile: true
 
    * During fall 2020, we arrange the weekly group meeting on Wednesday morning 9:30 am - 11:50 pm. 
 
-## Previous News
-
+## Previous News, including seminars that I have invited.
 
 *  Seminar 11-26-2019 
 
