@@ -1,20 +1,30 @@
 ---
-title: "Teaching experience 1"
+title: "国科大研究生课程：量子场论"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2020-fall-frontier
-venue: "University 1, Department"
-date: 2020-09-10
-location: "City, Country"
+type: "graduate course"
+permalink: /teaching/qft
+venue: "国科大物理学院"
+date: 2020-09-18
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+国科大2020年秋季学期物理学院《量子场论（1）（理论物理方向）》研究生课程
 
-Heading 1
-======
+## 时间地点
 
-Heading 2
-======
+每周五（1-3）节次，上午8:30开始，地点：雁栖湖校区 教1-306
 
-Heading 3
-======
+## 助教：
+
+陈一帆，yifan.chen@itp.ac.cn
+
+## 参考书：
+
+* M. Peskin and D. Schroeder, An Introduction to Quantum Field Theory (教科书)
+
+* Matthew D. Schwartz, Quantum Field Theory and the Standard Model
+
+* Steven Weinberg, Quantum theory of fields I: foundation
+
+* A. Zee, Quantum field theory in a nutshell
+
