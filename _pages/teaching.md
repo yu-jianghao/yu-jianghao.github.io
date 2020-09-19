@@ -14,9 +14,7 @@ This page is intended for outline and materials in my teaching courses, and in t
 
 助教：陈一凡博士 yifan.chen@itp.ac.cn
 
-1. 导论（量子场论的动机，Lorentz协变回顾），经典场，正则量子化
-
-2. 
+具体内容见：[量子场论课程网站](/teaching/2020-fall-qft)
 
 ## 2020 Fall, UCAS course: Frontier of Physics
 
