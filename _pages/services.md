@@ -13,7 +13,7 @@ This research group usually has one job opening for postdoctoral associate. Rese
 
 You can find my research interests in research page. If you are interested in my research, or if you would like to do your B.Sc/Ph.D. thesis with me, please contact me via email.
 
-我的研究方向见Research page，如果你对我的研究方向有兴趣，想要到中国科学院理论物理研究所攻读博士学位，欢迎联系我。
+我的研究方向见Research page，如果你对我的研究方向有兴趣，想要到中国科学院理论物理研究所攻读博士学位，欢迎邮件联系我：jhyu@itp.ac.cn。
 
 
 基本要求：希望你能掌握量子力学和狭义相对论，有一定的数学推导能力，最好能有基本的编程水平（不是必须的）。
@@ -25,12 +25,11 @@ You can find my research interests in research page. If you are interested in my
 
 如果你是高校的大二大三学生，对我的研究方向有兴趣，想要做本科生科研，欢迎申请科创计划，具体细节可以发邮件向我咨询。
 
-基本要求：学过原子物理，即将或正在学习电动力学或量子力学，有一定的数学推导能力
+基本要求：学过原子物理，即将或正在学习电动力学或量子力学，有一定的数学推导能力。
 
 
 ## 本科生毕业设计
 
 我目前已经指导了分别来自不同高校的三位同学的本科毕业设计。如果你是高校的大四学生，对我的研究方向有兴趣，想要做本科毕业设计，欢迎发邮件向我咨询。
 
-基本要求：学过四大力学，掌握量子力学，有一定的数学推导能力
-
+基本要求：学过四大力学，掌握量子力学，有一定的数学推导能力。
