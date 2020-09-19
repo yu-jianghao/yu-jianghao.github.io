@@ -20,7 +20,7 @@ location: "Beijing, China"
 
 ## 参考书：
 
-* M. Peskin and D. Schroeder, An Introduction to Quantum Field Theory (教科书)
+* Michael E. Peskin and David V. Schroeder, An Introduction to Quantum Field Theory (教科书)
 
 * Matthew D. Schwartz, Quantum Field Theory and the Standard Model
 
