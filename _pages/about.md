@@ -28,7 +28,7 @@ If you are interested in my research, please check out my publications at [INSPI
     <em>Jiang-Hao Yu 于江浩 </em>
 </p>
 <br />
-于江浩，中国科学院理论物理研究所副研究员，博士毕业于美国密歇根州立大学，先后在德克萨斯大学奥斯汀分校和麻省大学阿姆斯特分校做博士后，2017年底回理论所任副研究员。研究领域为粒子物理理论和粒子宇宙学，研究方向为（详细请见Research page）
+于江浩，中国科学院理论物理研究所副研究员，博士毕业于美国密歇根州立大学，先后在德克萨斯大学奥斯汀分校和麻省大学阿姆斯特分校做博士后，2017年底到理论所任副研究员。研究领域为粒子物理理论和粒子宇宙学，研究方向为（详细请见Research page）
 
 1. 质量起源：希格斯粒子和中微子的质量起源
 
@@ -49,25 +49,24 @@ If you are interested in my research, please check out my publications at [INSPI
 
 -----------------
 
-In this research group, currently we have two postdocs:
+In this research group, currently we have 2 postdocs:
 
 * Hao-Lin Li 李浩林 (2018 - )
 * Yong Du 杜勇 (2020 - )
 
-and four graduate students:
+and graduate students:
 
 
 * Zhe Ren 任哲   
 * Yuan-Zhen Li 李沅桢  
 * Yu-Han Ni 倪郁涵 
-* Hao Sun 孙浩  
+* Hao Sun 孙浩 
+* Yi-Ning Wang 王一宁    
 
 -----------------
 
 
-We also provide research opportunities for undergraduate students, currently two undergraduate students are working with me:
-
-* Yi-Ning Wang 王一宁 (山东大学)  
+We also provide research opportunities for undergraduate students, currently two undergraduate students are working with me. 
 
 
 -----------------
