@@ -24,7 +24,7 @@ This page is intended for outline and materials in my teaching courses, and in t
 
 1. 物质反物质不对称性的起源，Origin of matter antimatter asymmetry，
 
-## 2020 Fall, Training course
+## 2020 Fall, HIAS course: Topics on Quantum Field Theory
 
 1. [Introduction to Effective Field Theory](/teaching/2020-fall-eft), fall, 2020
 
