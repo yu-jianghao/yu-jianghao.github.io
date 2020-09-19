@@ -13,7 +13,7 @@ This research group usually has one job opening for postdoctoral associate. Rese
 
 You can find my research interests in research page. If you are interested in my research, or if you would like to do your B.Sc/Ph.D. thesis with me, please contact me via email.
 
-我的研究方向见Research page，如果你对我的研究方向有兴趣，想要和我做研究或者毕业设计，欢迎联系我。
+我的研究方向见Research page，如果你对我的研究方向有兴趣，想要到中国科学院理论物理研究所攻读博士学位，欢迎联系我。
 
 
 基本要求：希望你能掌握量子力学和狭义相对论，有一定的数学推导能力，最好能有基本的编程水平（不是必须的）。
