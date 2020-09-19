@@ -8,7 +8,7 @@ author_profile: true
 
 ## Current News
 
-* Welcome Yong Du as postdoc in this group.
+* 2020-09-18: Welcome Yong Du as postdoc in this group.
 
 * Group meeting from 09-16-2020 to Dec 2019
 
