@@ -72,7 +72,7 @@ If you are interested in my research, or if you would like to do your B.Sc/Ph.D.
 
 We also provide research opportunities for undergraduate students, currently two undergraduate students are working with me.  
 
-中国科学院自2015年开始实施大学生创新实践训练计划（“科创计划”），每年资助全国各个高校二年级或三年级本科学生进行本科生科研，如果你是高校的大二大三学生，对我的研究方向有兴趣，想要做本科生科研，欢迎申请科创计划，具体细节可以发邮件向我咨询。
+中国科学院实施大学生“科创计划”，每年资助全国各个高校二年级或三年级本科学生进行本科生科研，如果你是高校的大二大三学生，对我的研究方向有兴趣，想要做本科生科研，欢迎申请科创计划，具体细节可以发邮件向我咨询。
 
 我目前已经指导了分别来自不同高校的三位同学的本科毕业设计。如果你是高校的大四学生，对我的研究方向有兴趣，想要做本科毕业设计，欢迎发邮件向我咨询。
 
