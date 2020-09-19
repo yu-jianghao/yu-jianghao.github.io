@@ -66,7 +66,7 @@ and graduate students:
 
 If you are interested in my research, or if you would like to do your B.Sc/Ph.D. thesis with me, please contact me via email. 
 
-如果你对我的研究感兴趣，想要在中国科学院理论物理研究所攻读博士学位，欢迎邮件联系我。
+如果你对我的研究感兴趣，想要在中国科学院理论物理研究所攻读博士学位，欢迎邮件联系我：jhyu@itp.ac.cn。
 
 -----------------
 
