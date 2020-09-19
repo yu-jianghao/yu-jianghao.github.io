@@ -27,3 +27,9 @@ This page is intended for outline and materials in my teaching courses, and in t
 ## 2020 Fall, Training course
 
 1. [Introduction to Effective Field Theory](/teaching/2020-fall-eft), fall, 2020
+
+
+## 2019 Fall, UCAS course: Overview of Modern Physics
+
+研究生课程：现代物理概述，国科大国际学院
+
