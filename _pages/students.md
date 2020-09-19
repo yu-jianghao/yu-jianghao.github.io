@@ -13,11 +13,11 @@ Postdoc Fellow
 
 Graduate Students
 ---
-* Zhe Ren 任哲 (2018.9-)
-* Yuan-Zhen Li 李沅桢 (2019.9-)
-* Yu-Han Ni 倪郁涵 (2019.9-)
-* Hao Sun 孙浩 (2020.9-)
-* Yi-Ning Wang 王一宁 (2021.9-)
+* Zhe Ren 任哲  
+* Yuan-Zhen Li 李沅桢 
+* Yu-Han Ni 倪郁涵 
+* Hao Sun 孙浩  
+* Yi-Ning Wang 王一宁  
 
 Alumni
 ---
