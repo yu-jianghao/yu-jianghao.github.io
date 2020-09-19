@@ -28,3 +28,33 @@ location: "Beijing, China"
 
 * A. Zee, Quantum field theory in a nutshell
 
+
+## 课程进度：
+
+### 2020-09-18
+
+* Introduction
+
+  * Why and what is quantum field theory?
+  * Natural unit and conversion
+  * Lorentz invariance and Lorentz tensor
+
+* Classical field theory
+
+  * Lagrangian and Hamiltonian
+  * Scalar field 
+  * Neother theorem
+  * Energy momentum tensor 
+  * Internal symmetry
+
+
+* Canonical quantization: scalar field
+
+  * Schrodinger and Heisenberg picture
+  * Field commute relations
+  * Oscillator and annihilation operators
+  * Mode decomposition for scalar field
+  * Vacuum and Eigenstates
+
+### 2020-09-25
+
