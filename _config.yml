@@ -13,9 +13,9 @@ name                     : &name "Jiang-Hao Yu"
 description              : &description "Associate Professor"
 description              : &description "Institute of Theoretical Physics"
 description              : &description "Chinese Academy of Science"
-url                      : https://yu-jianghao.gitee.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yu-jianghao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jhyu-itp/jhyu-itp.github.io"
+repository               : "yu-jianghao/yujiang-hao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
