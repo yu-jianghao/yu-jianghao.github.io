@@ -7,7 +7,7 @@ author_profile: true
 
 ## Some small softwares that I have written for my research
 
-* **SMEFT**: SMEFT code. Not yet ready. Stay tuned. ([source code](https://github.com/jhyu-itp))
+* **SMEFT**: SMEFT code. Not yet ready. Stay tuned. ([source code](https://github.com/yu-jianghao))
 
 * **SpinorCalc**: spinor calculation. Will update. 
 
