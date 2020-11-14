@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage for Jiang-Hao Yu's （于江浩） research group. 中文介绍在下面。
+This is the homepage for Jiang-Hao Yu's （于江浩） research group. The updated website is also in yu-jianghao.gitee.io.
 
 -----------------
 
