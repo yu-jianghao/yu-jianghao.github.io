@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage for Jiang-Hao Yu's （于江浩） research group. The updated website is also in yu-jianghao.gitee.io.
+This is the homepage for Jiang-Hao Yu's （于江浩） research group. Please visit the updated website at yu-jianghao.gitee.io.
 
 -----------------
-
 
 I am Jiang-Hao Yu (于江浩), associate professor at Institute of Theoretical Physics, Chinese Academy of Science ([ITP-CAS](http://english.itp.cas.cn)). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS at 2017. 
 
@@ -20,6 +19,7 @@ My research area is theoretical particle physics and particle cosmology, focusin
 If you are interested in my research, please check out my publications at [INSPIRE-HEP](https://inspirehep.net/authors/1066117) webpage. If you would like to apply for postdoc/Ph.D., or would like to visit ITP-CAS, feel free to contact me via [email](mailto:jhyu@itp.ac.cn). 
 
 
+Please visit the updated website at yu-jianghao.gitee.io.
 
 
 <p align="center">
