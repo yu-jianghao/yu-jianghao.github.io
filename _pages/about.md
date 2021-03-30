@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage for Jiang-Hao Yu's （于江浩） research group. Please visit the updated website at yu-jianghao.gitee.io.
+This is the homepage for Jiang-Hao Yu's （于江浩） research group. 
+
+# Please visit the updated website at yu-jianghao.gitee.io.
 
 -----------------
 
-I am Jiang-Hao Yu (于江浩), associate professor at Institute of Theoretical Physics, Chinese Academy of Science ([ITP-CAS](http://english.itp.cas.cn)). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS at 2017. 
+I am Jiang-Hao Yu (于江浩), professor at Institute of Theoretical Physics, Chinese Academy of Science ([ITP-CAS](http://english.itp.cas.cn)). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS at 2017. 
 
 My research area is theoretical particle physics and particle cosmology, focusing on origin of the Higgs mass and neutrino masses, origin of matter and dark matter, and effective field theories. Recently I am working on naturalness and shape of Higgs potential, standard model and chiral effective field theory, electroweak phase transition and baryogenesis, dark matter and cosmological signatures.  
 
@@ -36,7 +38,7 @@ Please visit the updated website at yu-jianghao.gitee.io.
 
 3. 场论理论：有效场论框架和非平衡态场论
 
-目前主要集中在希格斯理论疑难、有效场论、电弱相变和重子生成、暗物质探测等方面，在国际学术期刊发表论文三四十篇，其中物理评论快报（PRL）三篇以及独立作者文章多篇，被PRL等国际学术期刊邀请为审稿人，多次受邀在国际会议和国际知名大学做邀请报告和大会报告。
+目前主要集中在希格斯理论疑难、有效场论、电弱相变和重子生成、暗物质探测等方面，在国际学术期刊发表论文四十余篇，其中物理评论快报（PRL）三篇以及独立作者文章多篇，被PRL等国际学术期刊邀请为审稿人，多次受邀在国际会议和国际知名大学做邀请报告和大会报告。
 
 <!-- Delete next line if you prefer not to have a feature row.  博士生导师-->
 
