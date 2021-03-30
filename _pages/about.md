@@ -10,7 +10,7 @@ redirect_from:
 
 This is the homepage for Jiang-Hao Yu's （于江浩） research group. 
 
-# Please visit the updated website at yu-jianghao.gitee.io.
+# Please visit the updated website at [yu-jianghao.gitee.io](https://yu-jianghao.github.io).
 
 -----------------
 
