@@ -1,5 +1,5 @@
 ---
-title: "News and Activities in Yu's group"
+title: "News and Activities in this group"
 permalink: /projects/
 author_profile: true
 ---
@@ -8,13 +8,65 @@ author_profile: true
 
 ## Current News
 
-* 2020-09-18: Welcome Yong Du as postdoc in this group.
 
-* Group meeting from 09-16-2020 to Dec 2019
+* Seiminar 2022-06-20
 
-   * During fall 2020, we arrange the weekly group meeting on Wednesday morning 9:30 am - 11:50 pm. 
+   * Amplitude bases in generic EFTs and the one-loop mixing matrix of dimension-8 SMEFT operators.
+   * Stefano De Angelis (Queen Marry Univ.of London), 4:00pm,  online
 
-## Previous News, including seminars that I have invited.
+* Seiminar 2022-04-12
+
+   * Invariant Theory for Flavor Physics
+   * Shun Zhou (IHEP-CAS), 3:00pm,  ITP North Building 332 
+
+
+* From 2022-01-01 to 2022-12-31:
+
+   * Group meeting: during 2022, we arrange the weekly group meeting on Friday (spring) morning 9:30 am - 12:00 pm and Tuesday (fall) morning 9:30 am - 12:00 pm. 
+   * Joint Journal club: during 2020, the weekly joint journal club with PKU group is arranged on Thursday morning 9:00 am - 11:50 am.
+
+
+* From 2021-09-01 to 2021-12-31:
+
+   * Group meeting: during fall 2021, we arrange the weekly group meeting on Monday morning 9:30 am - 12:00 pm and Wednesday morning 9:30 am - 12:00 pm. 
+   * Joint Journal club: during fall 2020, the weekly joint journal club with PKU group is arranged on Thursday morning 9:00 am - 11:50 am.
+
+*  Seminar 2021-06-07 
+
+   * Investigation on the baryon number violating dinucleon to dilepton decays in the effective field theory
+   * Xiao-Dong Ma (TD Lee Institute, Shanghai Jiaotong University), 3:00pm,  ITP South Building 6420 
+
+*  Seminar 2021-05-28 
+
+   * Light $U(1)_{B-L}$ model at the high-intensity frontier
+   * Yongchao Zhang [Southeast University], 3:00pm,  ITP South Building 6420 
+
+*  Seminar 2021-05-11
+
+   * Recent progress in cosmological collider physics 
+   * Zhong-Zhi Xianyu [Tsinghua University], 3:00pm,  ITP South Building 6620 
+
+
+* From 2021-03-08 to 2021-07-01:
+
+   * Group meeting: during spring 2021, we arrange the weekly group meeting on Wednesday morning 9:30 am - 12:00 pm. 
+
+* 2020-12-28: Congratulation to Hao-Lin Li and Ming-Lei Xiao get postdoc offers from UC Louvain and Northwestern Univ.!
+
+
+## Previous News, including seminar talks that I have invited.
+
+
+* 2020-11-04: lunch seminar talk: 
+
+   * 黑洞照亮宇宙, Jian-Min Wang, IHEP-CAS, 2020年11月4日（周三）中午12:00， ITP South Building 6620.
+
+* 2020-09-18: Welcome Yong Du as postdoc in this research group.
+
+* From 2020-09-16 to 2020-12-31:
+
+   * Group meeting: during fall 2020, we arrange the weekly group meeting on Wednesday afternoon 2:30 pm - 5:00 pm. 
+   * Joint Journal club: during fall 2020, the weekly joint journal club with PKU group is arranged on Thursday morning 9:00 am - 11:50 am.
 
 *  Seminar 11-26-2019 
 
@@ -61,7 +113,7 @@ author_profile: true
 
 ## Group Meeting and Journal Club
 
-We have a weekly group meeting, and journal club, which are usually informed via Wechat group.
+We have a weekly group meeting, and joint journal club, which are usually informed via Wechat group.
 
 
 
