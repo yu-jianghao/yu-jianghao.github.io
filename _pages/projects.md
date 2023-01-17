@@ -9,6 +9,18 @@ author_profile: true
 ## Current News
 
 
+* 2023-01-15: Congratulation to Zhe Ren, Xu-Xiang Li and Yong Du get postdoc offers from Granada, Utah, and TDLI!
+
+* From 2023-01-01 to 2023-04-15:
+
+   * Group meeting: during 2023, we arrange the weekly group meeting in three different times. 
+   * Joint Journal club: during 2023, the weekly joint journal club with PKU group is arranged on Thursday morning 9:00 am - 11:50 am.
+
+
+
+## Previous News, including seminar talks that I have invited.
+
+
 * Seiminar 2022-06-20
 
    * Amplitude bases in generic EFTs and the one-loop mixing matrix of dimension-8 SMEFT operators.
@@ -23,13 +35,13 @@ author_profile: true
 * From 2022-01-01 to 2022-12-31:
 
    * Group meeting: during 2022, we arrange the weekly group meeting on Friday (spring) morning 9:30 am - 12:00 pm and Tuesday (fall) morning 9:30 am - 12:00 pm. 
-   * Joint Journal club: during 2020, the weekly joint journal club with PKU group is arranged on Thursday morning 9:00 am - 11:50 am.
+   * Joint Journal club: during 2022, the weekly joint journal club with PKU group is arranged on Thursday morning 9:00 am - 11:50 am.
 
 
 * From 2021-09-01 to 2021-12-31:
 
    * Group meeting: during fall 2021, we arrange the weekly group meeting on Monday morning 9:30 am - 12:00 pm and Wednesday morning 9:30 am - 12:00 pm. 
-   * Joint Journal club: during fall 2020, the weekly joint journal club with PKU group is arranged on Thursday morning 9:00 am - 11:50 am.
+   * Joint Journal club: during fall 2021, the weekly joint journal club with PKU group is arranged on Thursday morning 9:00 am - 11:50 am.
 
 *  Seminar 2021-06-07 
 
@@ -54,7 +66,7 @@ author_profile: true
 * 2020-12-28: Congratulation to Hao-Lin Li and Ming-Lei Xiao get postdoc offers from UC Louvain and Northwestern Univ.!
 
 
-## Previous News, including seminar talks that I have invited.
+
 
 
 * 2020-11-04: lunch seminar talk: 
