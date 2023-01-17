@@ -8,37 +8,50 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage for Jiang-Hao Yu's （于江浩） research group. 
-
-# Please visit the updated website at [yu-jianghao.gitee.io](https://yu-jianghao.gitee.io).
+Welcome to the homepage for Prof. Jiang-Hao Yu's research group. 
 
 -----------------
 
-I am Jiang-Hao Yu (于江浩), professor at Institute of Theoretical Physics, Chinese Academy of Science ([ITP-CAS](http://english.itp.cas.cn)). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS at 2017. 
 
-My research area is theoretical particle physics and particle cosmology, focusing on origin of the Higgs mass and neutrino masses, origin of matter and dark matter, and effective field theories. Recently I am working on naturalness and shape of Higgs potential, standard model and chiral effective field theory, electroweak phase transition and baryogenesis, dark matter and cosmological signatures.  
-
-If you are interested in my research, please check out my publications at [INSPIRE-HEP](https://inspirehep.net/authors/1066117) webpage. If you would like to apply for postdoc/Ph.D., or would like to visit ITP-CAS, feel free to contact me via [email](mailto:jhyu@itp.ac.cn). 
-
-
-Please visit the updated website at yu-jianghao.gitee.io.
-
+I am Jiang-Hao Yu, professor at Institute of Theoretical Physics, Chinese Academy of Science ([ITP-CAS](http://english.itp.cas.cn)). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS at 2017. For my personal introduction in Chinese version, please look at [here](/chinese/). 中文介绍见[这里](/chinese/)
 
 <p align="center">
 <img src="/images/yuoffice.jpg" alt="于江浩" title="Jiang-Hao Yu" width="220"/>
      <br />
     <em>Jiang-Hao Yu 于江浩 </em>
 </p>
-<br />
-于江浩，中国科学院理论物理研究所副研究员，博士毕业于美国密歇根州立大学，先后在德克萨斯大学奥斯汀分校和麻省大学阿姆斯特分校做博士后，2017年底到理论所任副研究员。研究领域为粒子物理理论和粒子宇宙学，研究方向为（详细请见Research page）
+
+
+My research area is theoretical particle physics and particle cosmology, and I am interested in
+
+1. origin of the Higgs mass and neutrino masses, 
+2. origin of matter anti-matter and dark matter,
+3. theory and pheno of effective field theories. 
+
+Recently I am focusing on naturalness and shape of Higgs potential, standard model and chiral effective field theory, electroweak phase transition and baryogenesis, dark matter and its cosmological signatures.  
+
+If you are interested in my research, please check out my publications at [INSPIRE-HEP](https://inspirehep.net/authors/1066117) webpage. If you would like to visit ITP-CAS, feel free to contact me via [email](mailto:jhyu@itp.ac.cn). 
+
+
+
+
+
+
+
+
+
+<!--于江浩，中国科学院理论物理研究所研究员，博士毕业于美国密歇根州立大学，先后在德克萨斯大学奥斯汀分校和麻省大学阿姆斯特分校做博士后，2017年底到理论所任副研究员，2021年起任研究员。研究领域为粒子物理理论和粒子宇宙学，研究方向为
 
 1. 质量起源：希格斯粒子和中微子的质量起源
 
 2. 物质起源：宇宙早期正物质和暗物质的起源
 
-3. 场论理论：有效场论框架和非平衡态场论
+3. 场论理论：有效场论框架和非平衡量子场论
 
-目前主要集中在希格斯理论疑难、有效场论、电弱相变和重子生成、暗物质探测等方面，在国际学术期刊发表论文四十余篇，其中物理评论快报（PRL）三篇以及独立作者文章多篇，被PRL等国际学术期刊邀请为审稿人，多次受邀在国际会议和国际知名大学做邀请报告和大会报告。
+目前主要集中在希格斯质量起源和电弱相变、标准模型有效场论、重子轻子生成及低能检验、暗物质中微子宇宙学等方面，在国际学术期刊发表论文四十余篇，其中物理评论快报（PRL）三篇以及独立作者文章多篇，被PRL等国际学术期刊邀请为审稿人，多次受邀在国际会议和国际知名大学做邀请报告和大会报告。-->
+
+<!--主持国家自然科学基金委面上项目一项，获国家自然科学基金委优秀青年科学基金项目资助，在国际学术期刊发表论文36篇，含独立作者文章6篇和物理评论快报（PRL）三篇，高能物理INSPIRE数据库统计文章总引用1000次以上，被PRL等国际学术期刊邀请为审稿人，多次受邀在国际会议和国际知名大学做邀请报告和大会报告。-->
+
 
 <!-- Delete next line if you prefer not to have a feature row.  博士生导师-->
 
@@ -48,12 +61,12 @@ Please visit the updated website at yu-jianghao.gitee.io.
 {% endif %} -->
 <!-- Delete previous lines if you prefer not to have a feature row. -->
 
------------------
 
 In this research group, currently we have 2 postdocs:
 
-* Hao-Lin Li 李浩林 (2018 - )
-* Yong Du 杜勇 (2020 - )
+* Chao Wu 邬超 (2022.09 - )
+* Guang-Hui Zhou 周光辉 (2022.12 - )
+* Hua-Yang Song 宋华洋 (2021.09 - ， joint postdoc )
 
 and graduate students:
 
@@ -62,19 +75,22 @@ and graduate students:
 * Yuan-Zhen Li 李沅桢  
 * Yu-Han Ni 倪郁涵 
 * Hao Sun 孙浩 
-* Yi-Ning Wang 王一宁 (2021 - )    
+* Yi-Ning Wang 王一宁
+* Yong-Kang Li 李永康
+* Run-Ke Zhang 张润轲 (2023 - )
 
 
-If you are interested in my research, or if you would like to do your Master/Ph.D. degree with me, please contact me via email. 
+
+If you would like to apply Postdoc in my research group, or if you would like to do your Master/Ph.D. degree with me, please contact me via [email](mailto:jhyu@itp.ac.cn). 
+
+<!-- 如果你对我的研究感兴趣，想要在中国科学院理论物理研究所攻读博士学位，欢迎邮件联系我：jhyu@itp.ac.cn。-->
 
 -----------------
 
-We also provide research opportunities for undergraduate students, currently two undergraduate students are working with me.  
+<!--We also provide research opportunities for undergraduate students, currently two undergraduate students are working with me.  
 
 中国科学院实施大学生“科创计划”，每年资助全国各个高校二年级或三年级本科学生进行本科生科研，如果你是高校的大二大三学生，对我的研究方向有兴趣，想要做本科生科研，欢迎申请科创计划，具体细节可以发邮件向我咨询。
 
 我目前已经指导了分别来自不同高校的三位同学的本科毕业设计。如果你是高校的大四学生，对我的研究方向有兴趣，想要做本科毕业设计，欢迎发邮件向我咨询。
 
-详细内容见jobs page。
-
------------------
+详细内容见jobs page。-->
