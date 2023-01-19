@@ -30,8 +30,8 @@ Previous postdocs and students guided：
 ---
 * Hao-Lin Li 李浩林 (postdoc during 2018.9-2021.9), Now postdoc at UC Leuven 
 * Ming-Lei Xiao 肖明磊 (postdoc during 2018.9-2021.8), Now postdoc at Northwestern University and Argonne National Lab
-* Yong Du 杜勇 (postdoc during 2020.12-2022.12), Now postdoc at TDLee Institute
 * Ling-Xiao Xu 许凌霄 (PhD 2021.08, PKU graduate student), Now postdoc at U. Padua 
+* Yong Du 杜勇 (postdoc during 2020.12-2022.12), Now postdoc at TDLee Institute
 
 
 ## Prospective Graduate Students
