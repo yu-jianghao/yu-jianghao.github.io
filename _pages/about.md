@@ -62,7 +62,7 @@ If you are interested in my research, please check out my publications at [INSPI
 <!-- Delete previous lines if you prefer not to have a feature row. -->
 
 
-In this research group, currently we have 2 postdocs:
+In this research group, currently we have several postdocs:
 
 * Chao Wu 邬超 (2022.09 - )
 * Guang-Hui Zhou 周光辉 (2022.12 - )
