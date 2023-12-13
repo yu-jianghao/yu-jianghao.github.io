@@ -116,15 +116,18 @@ arXiv:2211.01420 [hep-ph].
 
 * Custodial Symmetry Violation in Scalar Extensions of the Standard Model,
 Hua-Yang Song, Xia Wan and Jiang-Hao Yu.
-arXiv:2211.01543 [hep-ph]
+arXiv:2211.01543 [hep-ph].
+Chin.Phys.C 47 (2023) 10, 103103. 
 
 * Investigating Higgs self-interaction through di-Higgs plus jet production,
 By Kangyu Chai, Jiang-Hao Yu and Hao Zhang.
-arXiv:2210.14929 [hep-ph]. 
+arXiv:2210.14929 [hep-ph].
+Phys.Rev.D 107 (2023) 5, 055031. 
 
 * Complete NNLO Operator Bases in Higgs Effective Field Theory,
 By Hao Sun, Ming-Lei Xiao and Jiang-Hao Yu.
-arXiv:2210.14939 [hep-ph]. 
+arXiv:2210.14939 [hep-ph].
+JHEP 04 (2023) 086. 
 
 * Theory Techniques for Precision Physics -- Snowmass 2021 TF06 Topical Group Report, 
 By Radja Boughezal, et. al.
@@ -132,7 +135,8 @@ arXiv:2209.10639 [hep-ph].
 
 * Complete NLO Operators in the Higgs Effective Field Theory, 
 By Hao Sun, Ming-Lei Xiao and Jiang-Hao Yu.
-arXiv:2206.07722 [hep-ph]. 
+arXiv:2206.07722 [hep-ph].
+JHEP 05 (2023) 043. 
 
 * The bottom-up EFT: complete UV resonances of the SMEFT operators,
 By Hao-Lin Li, Yu-Han Ni, Ming-Lei Xiao and Jiang-Hao Yu.
@@ -145,7 +149,8 @@ arXiv:2203.06771 [hep-ph].
 
 * The Forward Physics Facility at the High-Luminosity LHC,
 By Jonathan L. Feng, et. al.
-arXiv:2203.05090 [hep-ex]. 
+arXiv:2203.05090 [hep-ex].
+J.Phys.G 50 (2023) 3, 030501. 
 
 * Gravitational waves from patterns of electroweak symmetry breaking: an effective perspective,
 By Rong-Gen Cai, Katsuya Hashino, Shao-Jiang Wang and Jiang-Hao Yu. 
@@ -170,8 +175,8 @@ JCAP 04 (2022) 04, 012.
 
 * What can we learn from the total width of the Higgs boson? 
 By Qing-Hong Cao, Hao-Lin Li, Ling-Xiao Xu and Jiang-Hao Yu.
-Chinese Physics C vol. 47, No. 3 (2023).
 arXiv:2107.08343 [hep-ph].
+Chin.Phys.C 47 (2023) 3, 033101.
 
 * Exploring SMEFT Induced Non-Standard Interactions from COHERENT to Neutrino Oscillations,
 Yong Du, Hao-Lin Li, Jian Tang, Sampsa Vihonen and Jiang-Hao Yu.
@@ -249,6 +254,7 @@ Phys.Rev.D 104 (2021) 1, 015025.
 * Twin Cogenesis
 By Wan-Zhe Feng, Jiang-Hao Yu.
 arXiv:2005.06471 [hep-ph].
+Commun.Theor.Phys. 75 (2023) 4, 045201.
 
 * Freeze-in Dark Matter from Secret Neutrino Interactions
 By Yong Du, Fei Huang, Hao-Lin Li, Jiang-Hao Yu.
