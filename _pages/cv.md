@@ -60,19 +60,19 @@ The following is the chinese version:
 
 * Positivity from J-Basis Operators in the Standard Model Effective Field Theory
 Chengjie Yang, Zhe Ren, Jiang-Hao Yu
-arXiv:2312.04663 [hep-ph]
+arXiv:2312.04663 [hep-ph].
 
 * Maximising CP Violation in Naturally Aligned Two-Higgs Doublet Models
 Neda Darvishi, Apostolos Pilaftsis, Jiang-Hao Yu
-arXiv:2312.00882 [hep-ph]
+arXiv:2312.00882 [hep-ph].
 
 * Automated ring-diagram framework for classifying CP invariants,
 Neda Darvishi, Yining Wang, Jiang-Hao Yu
-arXiv:2311.15422 [hep-ph]
+arXiv:2311.15422 [hep-ph].
 
 * Complementary LHC searches for UV resonances of the 0νββ decay operators,
 By Gang Li, Jiang-Hao Yu, and Xiang Zhao
-arXiv:2311.10079 [hep-ph]
+arXiv:2311.10079 [hep-ph].
 
 * Complete UV Resonances of the Dimension-8 SMEFT Operators
 By Hao-Lin Li, Yu-Han Ni, Ming-Lei Xiao and Jiang-Hao Yu.
@@ -80,11 +80,11 @@ arXiv:2309.15933 [hep-ph].
 
 * A complete tree-level dictionary between simplified BSM models and SMEFT (d ≤ 7) operators
 By Xu-Xiang Li, Zhe Ren and Jiang-Hao Yu
-arXiv:2307.10380 [hep-ph]
+arXiv:2307.10380 [hep-ph].
 
 * Complete EFT Operator Bases for Dark Matter and Weakly-Interacting Light Particle
 By Hua-Yang Song, Hao Sun, and Jiang-Hao Yu.
-arXiv:2306.05999 [hep-ph]
+arXiv:2306.05999 [hep-ph].
   
 * Distinguishing thermal histories of dark matter from structure formation
 By Fei Huang, Yuan-Zhen Li and Jiang-Hao Yu. 
