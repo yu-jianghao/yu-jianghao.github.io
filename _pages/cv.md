@@ -78,7 +78,7 @@ arXiv:2311.10079 [hep-ph]
 By Hao-Lin Li, Yu-Han Ni, Ming-Lei Xiao and Jiang-Hao Yu.
 arXiv:2309.15933 [hep-ph].
 
-A complete tree-level dictionary between simplified BSM models and SMEFT (d ≤ 7) operators
+* A complete tree-level dictionary between simplified BSM models and SMEFT (d ≤ 7) operators
 By Xu-Xiang Li, Zhe Ren and Jiang-Hao Yu
 arXiv:2307.10380 [hep-ph]
 
