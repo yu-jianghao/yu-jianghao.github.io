@@ -8,6 +8,31 @@ This page is intended for outlines and materials in my teaching courses, and in 
 
 -----------------------------------
 
+
+## 2023 Fall, Course at University of Chinese Academy of Sciences: Quantum Field Theory
+
+  Graduate student course (60 hr), [outline is here](/teaching/2022-fall-qft)
+
+   * Time: Every Monday and Friday morning 10:30 - 12:10
+ 
+   * Location: Yanqihu campus, 1-306
+
+   * Teaching assistant: Yi-Ning Wang
+
+   * Textbook: Weinberg QFT I, Srednicki QFT, Peskin QFT, Schwartz QFT
+
+
+
+## 2023 Spring, University of CAS Graduate Course (Hangzhou): Special Topics on Particle Physics
+
+Standard Model and Beyond
+
+1. Standard Model: history, theory and pheno, experiments 
+2. Motivation for Beyond SM: hierarchy problem, neutrino masses, strong CP
+3. BSM Models: SUSY, extra dimension, composite Higgs, neutrino, axion
+4. EFTs: SMEFT, HEFT, LEFT, Chiral Lagrangian, and Nuclear EFT 
+
+
 ## 2022 Summer School and Lectures on "Effective Field Theory":
 
 * 2022.07.11-12, [Summer School on Dark Matter and New Physics](https://indico.ihep.ac.cn/event/16284/timetable/#20220711)
