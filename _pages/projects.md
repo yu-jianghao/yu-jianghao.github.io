@@ -9,17 +9,21 @@ author_profile: true
 ## Current News
 
 
-* 2023-01-15: Congratulation to Zhe Ren, Xu-Xiang Li and Yong Du get postdoc offers from Granada, Utah, and TDLI!
+* From 2023-09-01 to 2024-01-15:
 
-* From 2023-01-01 to 2023-04-15:
-
-   * Group meeting: during 2023, we arrange the weekly group meeting in three different times. 
+   * Group meeting: during 2023, we arrange the weekly group meeting on Wednesday. 
    * Joint Journal club: during 2023, the weekly joint journal club with PKU group is arranged on Thursday morning 9:00 am - 11:50 am.
 
 
 
 ## Previous News, including seminar talks that I have invited.
 
+* 2023-01-15: Congratulation to Zhe Ren, Xu-Xiang Li and Yong Du get postdoc offers from Granada, Utah, and TDLI!
+
+* From 2023-01-01 to 2023-04-15:
+
+   * Group meeting: during 2023, we arrange the weekly group meeting in three different times. 
+   * Joint Journal club: during 2023, the weekly joint journal club with PKU group is arranged on Thursday morning 9:00 am - 11:50 am.
 
 * Seiminar 2022-06-20
 
