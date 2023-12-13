@@ -65,7 +65,7 @@ If you are interested in my research, please check out my publications at [INSPI
 In this research group, currently we have several postdocs:
 
 * Chao Wu 邬超 (2022.09 - )
-* Guang-Hui Zhou 周光辉 (2022.12 - )
+* Zhe-Wen Mo 莫哲文 (2023.09 - )
 * Hua-Yang Song 宋华洋 (2021.09 - ， joint postdoc )
 
 and graduate students:
