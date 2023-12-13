@@ -9,13 +9,12 @@ Postdoc Fellow
 ---
 
 * Chao Wu 邬超 (2022.7 - )
-* Guang-Hui Zhou 周光辉 (2022.12 - )
+* * Zhe-Wen Mo 莫哲文 (2023.09 - )
 * Hua-Yang Song 宋华洋 (2021.9 - ， joint postdoc )
 
 
 Graduate Students
----
-* Zhe Ren 任哲  
+---  
 * Yuan-Zhen Li 李沅桢 
 * Yu-Han Ni 倪郁涵 
 * Hao Sun 孙浩  
@@ -33,6 +32,8 @@ Previous postdocs and students guided：
 * Ling-Xiao Xu 许凌霄 (PhD 2021.08, PKU graduate student), Now postdoc at U. Padua 
 * Fei Huang 黄飞 (postdoc during 2019.9-2022.8, joint), Now postdoc at Weizmann Institute 
 * Yong Du 杜勇 (postdoc during 2020.12-2022.12), Now postdoc at TDLee Institute
+* Xu-Xiang Li 黎旭翔 (PhD 2023.08, PKU graduate student), Now postdoc at Utah U.
+* Zhe Ren 任哲 (PhD 2023.08, ITP graduate student), Now postdoc at Granada U.
 
 
 ## Prospective Graduate Students
