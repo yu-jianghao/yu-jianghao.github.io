@@ -58,19 +58,19 @@ The following is the chinese version:
 
 ### Year 2023: 10 papers (up to 2023.12.15)
 
-Positivity from J-Basis Operators in the Standard Model Effective Field Theory
+* Positivity from J-Basis Operators in the Standard Model Effective Field Theory
 Chengjie Yang, Zhe Ren, Jiang-Hao Yu
 arXiv:2312.04663 [hep-ph]
 
-Maximising CP Violation in Naturally Aligned Two-Higgs Doublet Models
+* Maximising CP Violation in Naturally Aligned Two-Higgs Doublet Models
 Neda Darvishi, Apostolos Pilaftsis, Jiang-Hao Yu
 arXiv:2312.00882 [hep-ph]
 
-Automated ring-diagram framework for classifying CP invariants,
+* Automated ring-diagram framework for classifying CP invariants,
 Neda Darvishi, Yining Wang, Jiang-Hao Yu
 arXiv:2311.15422 [hep-ph]
 
-Complementary LHC searches for UV resonances of the 0νββ decay operators,
+* Complementary LHC searches for UV resonances of the 0νββ decay operators,
 By Gang Li, Jiang-Hao Yu, and Xiang Zhao
 arXiv:2311.10079 [hep-ph]
 
