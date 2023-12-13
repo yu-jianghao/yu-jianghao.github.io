@@ -6,6 +6,28 @@ author_profile: true
 
 This page lists seminars and talks that I have given, and conferences I have organized. 
 
+
+## Seminars and Conference Talks in 2023
+
+1. 2023.03.25, **Effective Field Theories : Effective Pathway to New Physics**, (invited talk), Southwest Joint workshop on Particle Physics, Nuclear and Cosmology, ChongQing.
+
+2. 2023.03.31, **EFT Perspective on Neutrino Masses and Interactions**, (invited Plenary talk), Workshop on Neutrino and Cosmology, HIAS, HangZhou.
+
+3. 2022.05.20, **EFT Perspective on Neutrino Masses and Neutrinoless Double Beta Decay**, (invited talk), The 2nd Workshop on Neutrinoless Double Beta Decay, SYSU, Zhuhai.
+
+4. 2022.05.25, **Effective Pathway to New Physics**, (invited seminar), Seminar at TDLI Shanghai JIaotong U, Shanghai.
+
+5. 2023.07.04, **Effective Field Theories for Weak Interactions and Neutrinos**， (Invited Plenary talk)，Weak Interactions and Neutrinos 2023, SYSU, Zhuhai. 
+
+6. 2023.08.26, **Effective Pathway to New Physics**, (invited talk), FIND workshop on CP violation at electroweak scale and beyond, USTC, Hefei.
+
+7. 2023.09.07, **Effective Field Theories : Effective Pathway to New Physics**, (Invited talk), ICTP-AP seminar, Beijing. 
+
+8. 2022.10.26, **Chiral Effective Field Theory for QCD and Electroweak Theories**, (Invited Plenary talk), The 8th Chiral EFT Workshop, Henan University, Kaifeng.
+
+9. 2023.11.02, **Effective Field Theories : Effective Pathway to New Physics**, (Invited talk), Seminar at Graduate school CAEP, Beijing. 
+
+
 ## Seminars and Conference Talks in 2022
 
 
