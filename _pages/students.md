@@ -9,7 +9,7 @@ Postdoc Fellow
 ---
 
 * Chao Wu 邬超 (2022.7 - )
-* * Zhe-Wen Mo 莫哲文 (2023.09 - )
+* Zhe-Wen Mo 莫哲文 (2023.09 - )
 * Hua-Yang Song 宋华洋 (2021.9 - ， joint postdoc )
 
 
