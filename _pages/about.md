@@ -71,7 +71,7 @@ In this research group, currently we have several postdocs:
 and graduate students:
 
 
-* Zhe Ren 任哲   
+ 
 * Yuan-Zhen Li 李沅桢  
 * Yu-Han Ni 倪郁涵 
 * Hao Sun 孙浩 
