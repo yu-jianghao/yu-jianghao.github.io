@@ -22,15 +22,17 @@ I am Jiang-Hao Yu, professor at Institute of Theoretical Physics, Chinese Academ
 </p>
 
 
-My research area is theoretical particle physics and particle cosmology, and I am interested in
+My research area is theoretical particle physics, quantum field theory, and particle cosmology, and my recent interests are
 
-1. origin of the Higgs mass and neutrino masses, 
-2. origin of matter anti-matter and dark matter,
-3. theory and pheno of effective field theories. 
+1. effective field theories and applications, 
+2. scattering amplitudes for electroweak and gravity,
+3. particle cosmology at early universe and structure formation,
+4. origin of Higgs/neutrino masses and matter-antimatter asymmetry. 
 
-Recently I am focusing on naturalness and shape of Higgs potential, standard model and chiral effective field theory, electroweak phase transition and baryogenesis, dark matter and its cosmological signatures.  
+If you are interested in my research, please check out my publications at [INSPIRE-HEP](https://inspirehep.net/authors/1066117) webpage. 
 
-If you are interested in my research, please check out my publications at [INSPIRE-HEP](https://inspirehep.net/authors/1066117) webpage. If you would like to visit ITP-CAS, feel free to contact me via [email](mailto:jhyu@itp.ac.cn). 
+Every year I will recruit one graduate student, if you are interested to do your master/phd degree with me, feel free to contact me via [email](mailto:jhyu@itp.ac.cn).
+
 
 
 
@@ -47,6 +49,10 @@ If you are interested in my research, please check out my publications at [INSPI
 2. 物质起源：宇宙早期正物质和暗物质的起源
 
 3. 场论理论：有效场论框架和非平衡量子场论
+
+1. origin of the Higgs mass and neutrino masses, 
+2. origin of matter anti-matter and dark matter,
+3. theory and pheno of effective field theories. 
 
 目前主要集中在希格斯质量起源和电弱相变、标准模型有效场论、重子轻子生成及低能检验、暗物质中微子宇宙学等方面，在国际学术期刊发表论文四十余篇，其中物理评论快报（PRL）三篇以及独立作者文章多篇，被PRL等国际学术期刊邀请为审稿人，多次受邀在国际会议和国际知名大学做邀请报告和大会报告。-->
 
@@ -66,22 +72,21 @@ In this research group, currently we have several postdocs:
 
 * Chao Wu 邬超 (2022.09 - )
 * Zhe-Wen Mo 莫哲文 (2023.09 - )
-* Hua-Yang Song 宋华洋 (2021.09 - ， joint postdoc )
+
 
 and graduate students:
 
 
  
-* Yuan-Zhen Li 李沅桢  
-* Yu-Han Ni 倪郁涵 
+
 * Hao Sun 孙浩 
 * Yi-Ning Wang 王一宁
 * Yong-Kang Li 李永康
-* Run-Ke Zhang 张润轲 (2023 - )
+* Run-Ke Zhang 张润轲 
+* Yu-Huan He   何雨寰
 
 
-
-If you would like to apply Postdoc in my research group, or if you would like to do your Master/Ph.D. degree with me, please contact me via [email](mailto:jhyu@itp.ac.cn). 
+If you would like to join my research group as Postdoc or graduate student, visit my research group, please contact me via [email](mailto:jhyu@itp.ac.cn). 
 
 <!-- 如果你对我的研究感兴趣，想要在中国科学院理论物理研究所攻读博士学位，欢迎邮件联系我：jhyu@itp.ac.cn。-->
 
