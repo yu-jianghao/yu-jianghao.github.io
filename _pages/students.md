@@ -28,13 +28,15 @@ Graduate Students
 
 Previous postdocs and students guided：
 ---
+
+Postdoc: 
 * Hao-Lin Li 李浩林 (postdoc during 2018.9-2021.9), postdoc at UC Leuven CP3
 * Ming-Lei Xiao 肖明磊 (postdoc during 2018.9-2021.8), postdoc at Northwestern University and Argonne National Lab
 * Fei Huang 黄飞 (postdoc during 2019.9-2022.8, joint), postdoc at Weizmann Institute
 * Yong Du 杜勇 (postdoc during 2020.12-2022.12), postdoc at TDLee Institute
 * Hua-Yang Song 宋华洋 (postdoc during 2021.9-2023.8), postdoc at IBS, Korea
 
-
+Student:
 * Ling-Xiao Xu 许凌霄 (PhD 2021.08, PKU graduate student), postdoc at U. Padua 
 * Xu-Xiang Li 黎旭翔 (PhD 2023.08, PKU graduate student), postdoc at Utah U.
 * Zhe Ren 任哲 (PhD 2023.08, ITP graduate student), postdoc at Granada U.
