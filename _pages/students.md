@@ -48,7 +48,7 @@ Student:
 
 I usually recuit graduate student every year. If you are interested in my research, or if you would like to do your Ph.D. thesis with me, please contact me via email.
 
-我一般一年招收一名研究生。如果你对我的研究方向有兴趣，想要到中国科学院理论物理研究所攻读博士学位，欢迎邮件联系我：jhyu@itp.ac.cn。
+我一般每年招收一名研究生。如果你对我的研究方向有兴趣，想要到中国科学院理论物理研究所攻读博士学位，欢迎邮件联系我：jhyu@itp.ac.cn。
 
 
 基本要求：希望你对四大力学有基本掌握，掌握量子力学和狭义相对论，有一定的数学推导能力，最好能有基本的编程水平（不是必须的）。
