@@ -10,7 +10,7 @@ Postdoc Fellow
 
 * Chao Wu 邬超 (2022.7 - )
 * Zhe-Wen Mo 莫哲文 (2023.09 - )
-* Hua-Yang Song 宋华洋 (2021.9 - ， joint postdoc )
+
 
 
 Graduate Students
@@ -20,27 +20,30 @@ Graduate Students
 * Hao Sun 孙浩  
 * Yi-Ning Wang 王一宁
 * Yong-Kang Li 李永康
-* Run-Ke Zhang 张润轲 (2023 - )
+* Run-Ke Zhang 张润轲
+* Yu-Huan He   何雨寰
 
 
 
 
 Previous postdocs and students guided：
 ---
-* Hao-Lin Li 李浩林 (postdoc during 2018.9-2021.9), Now postdoc at UC Leuven 
-* Ming-Lei Xiao 肖明磊 (postdoc during 2018.9-2021.8), Now postdoc at Northwestern University and Argonne National Lab
-* Ling-Xiao Xu 许凌霄 (PhD 2021.08, PKU graduate student), Now postdoc at U. Padua 
-* Fei Huang 黄飞 (postdoc during 2019.9-2022.8, joint), Now postdoc at Weizmann Institute 
-* Yong Du 杜勇 (postdoc during 2020.12-2022.12), Now postdoc at TDLee Institute
-* Xu-Xiang Li 黎旭翔 (PhD 2023.08, PKU graduate student), Now postdoc at Utah U.
-* Zhe Ren 任哲 (PhD 2023.08, ITP graduate student), Now postdoc at Granada U.
+* Hao-Lin Li 李浩林 (postdoc during 2018.9-2021.9), postdoc at UC Leuven CP3
+* Ming-Lei Xiao 肖明磊 (postdoc during 2018.9-2021.8), postdoc at Northwestern University and Argonne National Lab
+* Ling-Xiao Xu 许凌霄 (PhD 2021.08, PKU graduate student), postdoc at U. Padua 
+* Fei Huang 黄飞 (postdoc during 2019.9-2022.8, joint), postdoc at Weizmann Institute 
+* Yong Du 杜勇 (postdoc during 2020.12-2022.12), postdoc at TDLee Institute
+* Xu-Xiang Li 黎旭翔 (PhD 2023.08, PKU graduate student), postdoc at Utah U.
+* Zhe Ren 任哲 (PhD 2023.08, ITP graduate student), postdoc at Granada U.
+* Yuan-Zhen Li 李沅桢 (PhD 2024.12, ITP graduate student), postdoc at UC Leuven CP3
+* Yu-Han Ni 倪郁涵 (PhD 2024.12, ITP graduate student), postdoc at CUHK
 
 
 ## Prospective Graduate Students
 
-You can find my research interests in research page. If you are interested in my research, or if you would like to do your B.Sc/Ph.D. thesis with me, please contact me via email.
+I usually recuit graduate student every year. If you are interested in my research, or if you would like to do your Ph.D. thesis with me, please contact me via email.
 
-我的研究方向见Research page，如果你对我的研究方向有兴趣，想要到中国科学院理论物理研究所攻读博士学位，欢迎邮件联系我：jhyu@itp.ac.cn。
+我一般一年招收一名研究生。如果你对我的研究方向有兴趣，想要到中国科学院理论物理研究所攻读博士学位，欢迎邮件联系我：jhyu@itp.ac.cn。
 
 
 基本要求：希望你对四大力学有基本掌握，掌握量子力学和狭义相对论，有一定的数学推导能力，最好能有基本的编程水平（不是必须的）。
