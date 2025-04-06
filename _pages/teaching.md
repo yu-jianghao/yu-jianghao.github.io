@@ -9,6 +9,11 @@ This page is intended for outlines and materials in my teaching courses, and in 
 -----------------------------------
 
 
+Every year I teach graduate course Quantum field theory at UCAS (Fall), and advanced particle physics at HIAS (Spring). I also teach effective field theory at various summer school and lectures.
+
+我每年秋季在中国科学院大学研究生院教授研究生核心课程量子场论，每年春季在杭高院教研究生粒子物理，偶尔在暑期学校教有效场论。
+
+
 ## 2023 Fall, Course at University of Chinese Academy of Sciences: Quantum Field Theory
 
   Graduate student course (60 hr), [outline is here](/teaching/2022-fall-qft)
