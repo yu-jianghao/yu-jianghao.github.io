@@ -112,7 +112,7 @@ permalink: /chinese/
 
 如果你想要了解更多的信息，可以看一下如下科普介绍（如下只是偶尔更新）。
 
-* [周光召先生的科学贡献和影响]([https://mp.weixin.qq.com/s/Hb_qmkBD0Y1KCd1KERbPmg]) （by 于江浩）
+* [周光召先生的科学贡献和影响](https://mp.weixin.qq.com/s/Hb_qmkBD0Y1KCd1KERbPmg) （by 于江浩）
 
 * [大师温伯格，一些个人回忆](/terms) （by 于江浩）
 
