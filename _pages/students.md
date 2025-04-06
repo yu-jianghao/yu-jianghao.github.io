@@ -15,8 +15,8 @@ Postdoc Fellow
 
 Graduate Students
 ---  
-* Yuan-Zhen Li 李沅桢 
-* Yu-Han Ni 倪郁涵 
+
+ 
 * Hao Sun 孙浩  
 * Yi-Ning Wang 王一宁
 * Yong-Kang Li 李永康
