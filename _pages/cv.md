@@ -106,7 +106,7 @@ The following is the chinese version:
 
 * Primordial lepton asymmetries: neutrino transport, spectral distortions and cosmological constraints,
   by Yuan-Zhen Li, Jiang-Hao Yu,
-  [arXiv:2501.13153 [hep-ph]].
+  [arXiv:2409.08280 [hep-ph]].
   JHEP 06, 213 (2025)
 
 * Constraints on neutrino nonstandard interactions from COHERENT, PandaX-4T and XENONnT,
