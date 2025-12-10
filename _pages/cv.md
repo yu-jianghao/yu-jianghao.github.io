@@ -102,16 +102,33 @@ The following is the chinese version:
 * Primordial lepton asymmetries: neutrino transport, spectral distortions and cosmological constraints,
   by Yuan-Zhen Li, Jiang-Hao Yu,
   [arXiv:2501.13153 [hep-ph]].
+  JHEP 06, 213 (2025)
 
 * Constraints on neutrino nonstandard interactions from COHERENT, PandaX-4T and XENONnT,
+  by Gang Li, Chuan-Qiang Song, Feng-Jie Tang, Jiang-Hao Yu,
+  [arXiv:2409.04703 [hep-ph]].
+  Phys. Rev. D 111, no.3, 035002 (2025)
 
 * Does the Electron EDM Preclude Electroweak Baryogenesis?
+  by Yuan-Zhen Li, Michael Ramsey-Musolf, Jiang-Hao Yu,
+  [arXiv:2404.19197 [hep-ph]].
 
 * Complete CP-eigen bases of meson-baryon chiral lagrangian up to p$^{5}$-order,
+  by Chuan-Qiang Song, Hao Sun, Jiang-Hao Yu,
+  [arXiv:2404.15047 [hep-ph]].
+  JHEP 09, 171 (2024)
 
 * Complete CP eigen-bases of mesonic chiral Lagrangian up to p$^{8}$-order,
+  by Xuan-He Li, Hao Sun, Feng-Jie Tang and Jiang-Hao Yu,
+  [arXiv:2404.14152 [hep-ph]].
+  JHEP 08, 189 (2024).
 
 * Identifying CP basis invariants in the SMEFT,
+  by Neda Darvishi, Yi-Ning Wang and Jiang-Hao Yu,
+  [arXiv:2403.18732 [hep-ph]].
+  Phys. Rev. D 112, no.9, 9 (2025)
+
+
 
 ### Year 2023: 10 papers (up to 2023.12.15)
 
