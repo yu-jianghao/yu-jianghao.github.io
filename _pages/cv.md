@@ -56,6 +56,17 @@ The following is the chinese version:
 ## My publication list
 
 
+### Year 2025: 10 papers (up to 2023.12.15)
+
+* Constructive Heavy Particle Effective Theory with Nonlinear Poincar{\'e} Symmetry,
+  by
+  [arXiv:2510.19929 [hep-ph]].
+
+* One-loop anomalous dimensions of LEFT dimension-7 operators via on-shell methods,
+  by
+  Commun. Theor. Phys. 77, no.11, 115202 (2025)
+
+
 ### Year 2023: 10 papers (up to 2023.12.15)
 
 * Positivity from J-Basis Operators in the Standard Model Effective Field Theory, 
