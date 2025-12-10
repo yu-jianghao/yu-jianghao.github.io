@@ -7,6 +7,68 @@ author_profile: true
 This page lists seminars and talks that I have given, and conferences I have organized. 
 
 
+## Seminars and Conference Talks in 2025
+
+1. 2025. 03. 29, **Duality for effective field theory and scattering amplitudes**, Invited Talk at 2025 Workshop on Standard Model Precision Calculation and and New Physics, Hebei University, Baoding.
+        
+2. 2025. 04. 09, **Spacetime and Spin Symmetries in scattering amplitudes**, Invited Seminar at High Energy THeory Forum (HETH-Forum), IHEP, Beijing.
+        
+3. 2025. 04. 10, **A Duality for effective field theory and scattering amplitudes**, Invited Seminar at Peng Huanwu Center for Fundamental Theory Seminar at USTC, Hefei.
+        
+4. 2025. 04. 12, **Axion and Dark Photon EFTs From UV to Hadronic Probes**, Invited Plenary talk at MEPA 2025, Nanjing University, Najing.
+        
+5. 2025. 04. 19, **Symmetry dictates Operators: From relativistic EFT to HQET**, Invited Plenary talk at The 7th National Heavy Flavor and QCD Workshop, Nanjing Normal University, Nanjing.
+        
+6. 2025. 04. 26, **通向新物理的有效途径：有效场论和散射振幅对应**, Invited Plenary talk at 2025年全国理论物理前沿与交叉科学研讨会, Changsha.
+        
+7. 2025. 05. 15, **有效场论：从散射振幅到新物理**, 安徽理工大学—基础物理研究中心, Huainan.
+        
+8. 2025. 05. 22, **Global Symmetries of SMEFT: Flavor, CP and B/L Symmetry**, 味物理讲座（84期）, Online.
+        
+9. 2025. 06. 06, **Partial Wave Analysis On Scattering Amplitudes**, TFPWA再加速, UCAS. 
+        
+10. 2025. 07. 24, **有效场论观点下的中微子0vbb**, 第一届中微子、原子核物理与新物理研讨会, Lanzhou. 
+        
+11. 2025. 09. 18, **Massive Scattering Amplitudes for the SM and Beyond**, Invited Seminar at Pittsburgh University PACC Seminar, Pittsburgh.
+        
+12. 2025. 10. 18, **Dark Matter Effective Theories at the Atomic Scale**, Invited Talk at 2025年紫金山暗物质研讨会, Yantai University.
+         
+13. 2025. 11. 01, **Physics Beyond the Standard Model**, Invited Plenary talk at 第五届量子场论及其应用研讨会, Beijing. 
+
+
+## Seminars and Conference Talks in 2024
+
+1. 2024.02.13, **Bottom-up Effective Fieid Theories From On-shell Ampltudes to New Physics Searches**, Iivited Seminar Talk at University of Florida.
+
+2. 2024.03.18, **Chiral Effective Field Theories For Strong and Weak Dynamics**, Invited Seminar at Beijing Normal University.
+
+3. 2024.03.20, **TeV Resonance Searches from Bottom-up at the LHC**, Invited Seminar falk at LHC理论实验联合讨论，IHEP, China.
+
+4. 2024.04,01, **Effective Field Theories from IR Amplitudes to UV Physics**, Irvited Sersinar Talk at Huazhong Normal University.
+
+5. 2024.04.24, **Chiral Eftective Field Theories For Strong and Weak Dynamics**, Invited Seminar at HAPOF强子物理在线论坛.
+
+6. 2024.04.27. **Effective Field Theories From On-shell Amplitudes to New Physics**, Invited talk at 2024年理论物理前治交叉科学研讨会，Nanjing.
+
+7. 2024.05.11, **Neutrino Efective Field Theories**, Invited Pienary talk at 第三届地下和空间粒子物理与宇国物理前治问题研讨会(C0USP2024), Xichang
+
+8. 2024.05.15, **Effective Fieid Theories trom IR Arplitudes to UV Physics**，周光召先生学术思想和科学精神研讨会登量子-军重物理前治论坛, Beijing.
+
+9. 2024.06.05, **Chiral Effective Field Theories For Strong and Weak Dynamics**, Invited Seminar at Shandong University
+    
+10. 2024.06.21, **Chiral Effective Field Theories For Strong and Weak Dynamics**, Invited Seminar at Hebei University
+    
+11. 2024.06.23, **Effective Field Theory for Axiony/ALP**, Axion Workshop at Hebei Normal University, Baoding.
+
+12. 2024.07.19, **Effective Field Theories from IR Amplitudes to UV Physics**, Iivited Plenary talk at New Opportunities for Particle physics (NOPp), IHEP, Beijing
+
+13. 2024.08.01, **Effective Field Theories from IR Amplitudes to UV Physics**, Invited Plenary talk at KIAS-APCTP Amplitude Sehool and Workshop, KIAS.
+
+14. 2024.10.31, **Chiral Effective Field Theories For Strong and Weak Dynamics**, Invited Seminar at Peking University.
+
+15. 2024.11.02, **Chiral Effective Field Theories For Precision Neutrino Physics**, Invited talk 第三届高能物理理论与实验融合发展研讨会, Liaoning Normal University.
+
+
 ## Seminars and Conference Talks in 2023
 
 1. 2023.03.25, **Effective Field Theories : Effective Pathway to New Physics**, (invited talk), Southwest Joint workshop on Particle Physics, Nuclear and Cosmology, ChongQing.
