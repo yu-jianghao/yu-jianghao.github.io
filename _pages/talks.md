@@ -9,31 +9,31 @@ This page lists seminars and talks that I have given, and conferences I have org
 
 ## Seminars and Conference Talks in 2025
 
-1. 2025. 03. 29, **Duality for effective field theory and scattering amplitudes**, Invited Talk at 2025 Workshop on Standard Model Precision Calculation and and New Physics, Hebei University, Baoding.
+1. 2025.03.29, **Duality for effective field theory and scattering amplitudes**, Invited Talk at 2025 Workshop on Standard Model Precision Calculation and and New Physics, Hebei University, Baoding.
         
-2. 2025. 04. 09, **Spacetime and Spin Symmetries in scattering amplitudes**, Invited Seminar at High Energy THeory Forum (HETH-Forum), IHEP, Beijing.
+2. 2025.04.09, **Spacetime and Spin Symmetries in scattering amplitudes**, Invited Seminar at High Energy THeory Forum (HETH-Forum), IHEP, Beijing.
         
-3. 2025. 04. 10, **A Duality for effective field theory and scattering amplitudes**, Invited Seminar at Peng Huanwu Center for Fundamental Theory Seminar at USTC, Hefei.
+3. 2025.04.10, **A Duality for effective field theory and scattering amplitudes**, Invited Seminar at Peng Huanwu Center for Fundamental Theory Seminar at USTC, Hefei.
         
-4. 2025. 04. 12, **Axion and Dark Photon EFTs From UV to Hadronic Probes**, Invited Plenary talk at MEPA 2025, Nanjing University, Najing.
+4. 2025.04.12, **Axion and Dark Photon EFTs From UV to Hadronic Probes**, Invited Plenary talk at MEPA 2025, Nanjing University, Najing.
         
-5. 2025. 04. 19, **Symmetry dictates Operators: From relativistic EFT to HQET**, Invited Plenary talk at The 7th National Heavy Flavor and QCD Workshop, Nanjing Normal University, Nanjing.
+5. 2025.04.19, **Symmetry dictates Operators: From relativistic EFT to HQET**, Invited Plenary talk at The 7th National Heavy Flavor and QCD Workshop, Nanjing Normal University, Nanjing.
         
-6. 2025. 04. 26, **通向新物理的有效途径：有效场论和散射振幅对应**, Invited Plenary talk at 2025年全国理论物理前沿与交叉科学研讨会, Changsha.
+6. 2025.04.26, **通向新物理的有效途径：有效场论和散射振幅对应**, Invited Plenary talk at 2025年全国理论物理前沿与交叉科学研讨会, Changsha.
         
-7. 2025. 05. 15, **有效场论：从散射振幅到新物理**, 安徽理工大学—基础物理研究中心, Huainan.
+7. 2025.05.15, **有效场论：从散射振幅到新物理**, 安徽理工大学—基础物理研究中心, Huainan.
         
-8. 2025. 05. 22, **Global Symmetries of SMEFT: Flavor, CP and B/L Symmetry**, 味物理讲座（84期）, Online.
+8. 2025.05.22, **Global Symmetries of SMEFT: Flavor, CP and B/L Symmetry**, 味物理讲座（84期）, Online.
         
-9. 2025. 06. 06, **Partial Wave Analysis On Scattering Amplitudes**, TFPWA再加速, UCAS. 
+9. 2025.06.06, **Partial Wave Analysis On Scattering Amplitudes**, TFPWA再加速, UCAS. 
         
-10. 2025. 07. 24, **有效场论观点下的中微子0vbb**, 第一届中微子、原子核物理与新物理研讨会, Lanzhou. 
+10. 2025.07.24, **有效场论观点下的中微子0vbb**, 第一届中微子、原子核物理与新物理研讨会, Lanzhou. 
         
-11. 2025. 09. 18, **Massive Scattering Amplitudes for the SM and Beyond**, Invited Seminar at Pittsburgh University PACC Seminar, Pittsburgh.
+11. 2025.09.18, **Massive Scattering Amplitudes for the SM and Beyond**, Invited Seminar at Pittsburgh University PACC Seminar, Pittsburgh.
         
-12. 2025. 10. 18, **Dark Matter Effective Theories at the Atomic Scale**, Invited Talk at 2025年紫金山暗物质研讨会, Yantai University.
+12. 2025.10.18, **Dark Matter Effective Theories at the Atomic Scale**, Invited Talk at 2025年紫金山暗物质研讨会, Yantai University.
          
-13. 2025. 11. 01, **Physics Beyond the Standard Model**, Invited Plenary talk at 第五届量子场论及其应用研讨会, Beijing. 
+13. 2025.11.01, **Physics Beyond the Standard Model**, Invited Plenary talk at 第五届量子场论及其应用研讨会, Beijing. 
 
 
 ## Seminars and Conference Talks in 2024
