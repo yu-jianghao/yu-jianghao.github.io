@@ -56,16 +56,62 @@ The following is the chinese version:
 ## My publication list
 
 
-### Year 2025: 10 papers (up to 2023.12.15)
+### Year 2025: 10 papers (up to 2025.12.15)
 
 * Constructive Heavy Particle Effective Theory with Nonlinear Poincar{\'e} Symmetry,
-  by
+  by Yong-Kang Li, Yi-Ning Wang, Jiang-Hao Yu,
   [arXiv:2510.19929 [hep-ph]].
 
 * One-loop anomalous dimensions of LEFT dimension-7 operators via on-shell methods,
-  by
+  by Zhewen Mo, Shuai Wang, Jiang-Hao Yu,
   Commun. Theor. Phys. 77, no.11, 115202 (2025)
 
+* Matching from quark to hadronic operators: external source vs spurion methods，
+  by Gang Li, Chuan-Qiang Song, Jiang-Hao Yu,
+  [arXiv:2507.02538 [hep-ph]].
+
+* Flavor and CP symmetries in the standard model effective field theory,
+  by Hao Sun, Jiang-Hao Yu,
+  [arXiv:2502.03526 [hep-ph]].
+  Phys. Rev. D 112, no.7, 075022 (2025).
+
+* Chiral effective field theories for strong and weak dynamics,
+  by Hao Sun, Yi-Ning Wang, Jiang-Hao Yu,
+  [arXiv:2501.14018 [hep-ph]].
+  JHEP 08, 185 (2025).
+
+* Neutrinophilic LambdaCDM Extension for EMPRESS, DESI and Hubble Tension,
+  by Yuan-Zhen Li, Jiang-Hao Yu,
+  [arXiv:2501.13153 [hep-ph]].
+
+* Systematic Spurion Matching between Low Energy EFT and Chiral Lagrangian,
+  by Chuan-Qiang Song, Hao Sun, Jiang-Hao Yu,
+  [arXiv:2501.09787 [hep-ph]].
+
+* Massive Helicity-Chirality Spinor Formalism from Massless Amplitudes with On-shell Mass Insertion,
+  by Yu-Han Ni, Yi-Ning Wang, Chao Wu, Jiang-Hao Yu,
+  [arXiv:2501.09062 [hep-ph]].
+
+
+### Year 2024: 7 papers (up to 2024.12.25)
+
+* Extended Poincare Symmetry Dictates Massive Scattering Amplitudes,
+  by Yu-Han Ni, Yi-Ning Wang, Chao Wu, Jiang-Hao Yu,
+  [arXiv:2412.03762 [hep-ph]].
+
+* Primordial lepton asymmetries: neutrino transport, spectral distortions and cosmological constraints,
+  by Yuan-Zhen Li, Jiang-Hao Yu,
+  [arXiv:2501.13153 [hep-ph]].
+
+* Constraints on neutrino nonstandard interactions from COHERENT, PandaX-4T and XENONnT,
+
+* Does the Electron EDM Preclude Electroweak Baryogenesis?
+
+* Complete CP-eigen bases of meson-baryon chiral lagrangian up to p$^{5}$-order,
+
+* Complete CP eigen-bases of mesonic chiral Lagrangian up to p$^{8}$-order,
+
+* Identifying CP basis invariants in the SMEFT,
 
 ### Year 2023: 10 papers (up to 2023.12.15)
 
