@@ -17,11 +17,12 @@ Graduate Students
 ---  
 
  
-* Hao Sun 孙浩  
+
 * Yi-Ning Wang 王一宁
 * Yong-Kang Li 李永康
 * Run-Ke Zhang 张润轲
 * Yu-Huan He   何雨寰
+
 
 
 
@@ -37,11 +38,12 @@ Postdoc:
 * Hua-Yang Song 宋华洋 (postdoc during 2021.9-2023.8), postdoc at IBS, Korea
 
 Student:
-* Ling-Xiao Xu 许凌霄 (PhD 2021.08, PKU graduate student), postdoc at U. Padua 
-* Xu-Xiang Li 黎旭翔 (PhD 2023.08, PKU graduate student), postdoc at Utah U.
-* Zhe Ren 任哲 (PhD 2023.08, ITP graduate student), postdoc at Granada U.
+* Ling-Xiao Xu 许凌霄 (PhD 2021.06, PKU graduate student), postdoc at U. Padua 
+* Xu-Xiang Li 黎旭翔 (PhD 2023.06, PKU graduate student), postdoc at Utah U.
+* Zhe Ren 任哲 (PhD 2023.06, ITP graduate student), postdoc at Granada U.
 * Yuan-Zhen Li 李沅桢 (PhD 2024.12, ITP graduate student), postdoc at UC Leuven CP3
 * Yu-Han Ni 倪郁涵 (PhD 2024.12, ITP graduate student), postdoc at CUHK
+* Hao Sun 孙浩 (PhD 2025.06, ITP graduate student), joint postdoc at IHEP and DESY 
 
 
 ## Prospective Graduate Students
