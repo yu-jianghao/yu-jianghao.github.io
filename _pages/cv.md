@@ -70,6 +70,11 @@ The following is the chinese version:
   by Gang Li, Chuan-Qiang Song, Jiang-Hao Yu,
   [arXiv:2507.02538 [hep-ph]].
 
+* Gravitational wave cosmology,
+  by Rong-Gen Cai, et.al.
+  Sci.China Phys.Mech.Astron. 69 (2026) 1, 210401.
+  [arXiv:2505.19747 [gr-qc]].
+
 * Flavor and CP symmetries in the standard model effective field theory,
   by Hao Sun, Jiang-Hao Yu,
   [arXiv:2502.03526 [hep-ph]].
@@ -229,6 +234,7 @@ J.Phys.G 50 (2023) 3, 030501.
 * Gravitational waves from patterns of electroweak symmetry breaking: an effective perspective,
 By Rong-Gen Cai, Katsuya Hashino, Shao-Jiang Wang and Jiang-Hao Yu. 
 arXiv:2202.08295 [hep-ph].
+Commun.Theor.Phys. 77 (2025) 5, 055204.
 
 * Neutrino seesaw models at one-loop matching: discrimination by effective operators, 
 By Yong Du, Xu-Xiang Li and Jiang-Hao Yu.
